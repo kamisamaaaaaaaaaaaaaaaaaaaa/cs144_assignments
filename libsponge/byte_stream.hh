@@ -1,7 +1,10 @@
 #ifndef SPONGE_LIBSPONGE_BYTE_STREAM_HH
 #define SPONGE_LIBSPONGE_BYTE_STREAM_HH
 
+<<<<<<< HEAD
 #include <deque>
+=======
+>>>>>>> lab2
 #include <string>
 
 //! \brief An in-order byte stream.
