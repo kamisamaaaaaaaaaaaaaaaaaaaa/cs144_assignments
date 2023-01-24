@@ -278,17 +278,108 @@ webget/fast:
 .PHONY : webget/fast
 
 #=============================================================================
-# Target rules for targets named fsm_stream_reassembler_holes
+# Target rules for targets named recv_special
 
 # Build rule for target.
-fsm_stream_reassembler_holes: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 fsm_stream_reassembler_holes
-.PHONY : fsm_stream_reassembler_holes
+recv_special: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 recv_special
+.PHONY : recv_special
 
 # fast build rule for target.
-fsm_stream_reassembler_holes/fast:
-	$(MAKE) -f tests/CMakeFiles/fsm_stream_reassembler_holes.dir/build.make tests/CMakeFiles/fsm_stream_reassembler_holes.dir/build
-.PHONY : fsm_stream_reassembler_holes/fast
+recv_special/fast:
+	$(MAKE) -f tests/CMakeFiles/recv_special.dir/build.make tests/CMakeFiles/recv_special.dir/build
+.PHONY : recv_special/fast
+
+#=============================================================================
+# Target rules for targets named recv_reorder
+
+# Build rule for target.
+recv_reorder: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 recv_reorder
+.PHONY : recv_reorder
+
+# fast build rule for target.
+recv_reorder/fast:
+	$(MAKE) -f tests/CMakeFiles/recv_reorder.dir/build.make tests/CMakeFiles/recv_reorder.dir/build
+.PHONY : recv_reorder/fast
+
+#=============================================================================
+# Target rules for targets named recv_close
+
+# Build rule for target.
+recv_close: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 recv_close
+.PHONY : recv_close
+
+# fast build rule for target.
+recv_close/fast:
+	$(MAKE) -f tests/CMakeFiles/recv_close.dir/build.make tests/CMakeFiles/recv_close.dir/build
+.PHONY : recv_close/fast
+
+#=============================================================================
+# Target rules for targets named recv_window
+
+# Build rule for target.
+recv_window: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 recv_window
+.PHONY : recv_window
+
+# fast build rule for target.
+recv_window/fast:
+	$(MAKE) -f tests/CMakeFiles/recv_window.dir/build.make tests/CMakeFiles/recv_window.dir/build
+.PHONY : recv_window/fast
+
+#=============================================================================
+# Target rules for targets named recv_transmit
+
+# Build rule for target.
+recv_transmit: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 recv_transmit
+.PHONY : recv_transmit
+
+# fast build rule for target.
+recv_transmit/fast:
+	$(MAKE) -f tests/CMakeFiles/recv_transmit.dir/build.make tests/CMakeFiles/recv_transmit.dir/build
+.PHONY : recv_transmit/fast
+
+#=============================================================================
+# Target rules for targets named recv_connect
+
+# Build rule for target.
+recv_connect: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 recv_connect
+.PHONY : recv_connect
+
+# fast build rule for target.
+recv_connect/fast:
+	$(MAKE) -f tests/CMakeFiles/recv_connect.dir/build.make tests/CMakeFiles/recv_connect.dir/build
+.PHONY : recv_connect/fast
+
+#=============================================================================
+# Target rules for targets named wrapping_integers_roundtrip
+
+# Build rule for target.
+wrapping_integers_roundtrip: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 wrapping_integers_roundtrip
+.PHONY : wrapping_integers_roundtrip
+
+# fast build rule for target.
+wrapping_integers_roundtrip/fast:
+	$(MAKE) -f tests/CMakeFiles/wrapping_integers_roundtrip.dir/build.make tests/CMakeFiles/wrapping_integers_roundtrip.dir/build
+.PHONY : wrapping_integers_roundtrip/fast
+
+#=============================================================================
+# Target rules for targets named wrapping_integers_unwrap
+
+# Build rule for target.
+wrapping_integers_unwrap: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 wrapping_integers_unwrap
+.PHONY : wrapping_integers_unwrap
+
+# fast build rule for target.
+wrapping_integers_unwrap/fast:
+	$(MAKE) -f tests/CMakeFiles/wrapping_integers_unwrap.dir/build.make tests/CMakeFiles/wrapping_integers_unwrap.dir/build
+.PHONY : wrapping_integers_unwrap/fast
 
 #=============================================================================
 # Target rules for targets named fsm_stream_reassembler_seq
@@ -304,17 +395,56 @@ fsm_stream_reassembler_seq/fast:
 .PHONY : fsm_stream_reassembler_seq/fast
 
 #=============================================================================
-# Target rules for targets named byte_stream_construction
+# Target rules for targets named fsm_stream_reassembler_single
 
 # Build rule for target.
-byte_stream_construction: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 byte_stream_construction
-.PHONY : byte_stream_construction
+fsm_stream_reassembler_single: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 fsm_stream_reassembler_single
+.PHONY : fsm_stream_reassembler_single
 
 # fast build rule for target.
-byte_stream_construction/fast:
-	$(MAKE) -f tests/CMakeFiles/byte_stream_construction.dir/build.make tests/CMakeFiles/byte_stream_construction.dir/build
-.PHONY : byte_stream_construction/fast
+fsm_stream_reassembler_single/fast:
+	$(MAKE) -f tests/CMakeFiles/fsm_stream_reassembler_single.dir/build.make tests/CMakeFiles/fsm_stream_reassembler_single.dir/build
+.PHONY : fsm_stream_reassembler_single/fast
+
+#=============================================================================
+# Target rules for targets named wrapping_integers_cmp
+
+# Build rule for target.
+wrapping_integers_cmp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 wrapping_integers_cmp
+.PHONY : wrapping_integers_cmp
+
+# fast build rule for target.
+wrapping_integers_cmp/fast:
+	$(MAKE) -f tests/CMakeFiles/wrapping_integers_cmp.dir/build.make tests/CMakeFiles/wrapping_integers_cmp.dir/build
+.PHONY : wrapping_integers_cmp/fast
+
+#=============================================================================
+# Target rules for targets named fsm_stream_reassembler_holes
+
+# Build rule for target.
+fsm_stream_reassembler_holes: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 fsm_stream_reassembler_holes
+.PHONY : fsm_stream_reassembler_holes
+
+# fast build rule for target.
+fsm_stream_reassembler_holes/fast:
+	$(MAKE) -f tests/CMakeFiles/fsm_stream_reassembler_holes.dir/build.make tests/CMakeFiles/fsm_stream_reassembler_holes.dir/build
+.PHONY : fsm_stream_reassembler_holes/fast
+
+#=============================================================================
+# Target rules for targets named tcp_parser
+
+# Build rule for target.
+tcp_parser: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 tcp_parser
+.PHONY : tcp_parser
+
+# fast build rule for target.
+tcp_parser/fast:
+	$(MAKE) -f tests/CMakeFiles/tcp_parser.dir/build.make tests/CMakeFiles/tcp_parser.dir/build
+.PHONY : tcp_parser/fast
 
 #=============================================================================
 # Target rules for targets named fsm_stream_reassembler_dup
@@ -330,17 +460,17 @@ fsm_stream_reassembler_dup/fast:
 .PHONY : fsm_stream_reassembler_dup/fast
 
 #=============================================================================
-# Target rules for targets named fsm_stream_reassembler_single
+# Target rules for targets named byte_stream_construction
 
 # Build rule for target.
-fsm_stream_reassembler_single: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 fsm_stream_reassembler_single
-.PHONY : fsm_stream_reassembler_single
+byte_stream_construction: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 byte_stream_construction
+.PHONY : byte_stream_construction
 
 # fast build rule for target.
-fsm_stream_reassembler_single/fast:
-	$(MAKE) -f tests/CMakeFiles/fsm_stream_reassembler_single.dir/build.make tests/CMakeFiles/fsm_stream_reassembler_single.dir/build
-.PHONY : fsm_stream_reassembler_single/fast
+byte_stream_construction/fast:
+	$(MAKE) -f tests/CMakeFiles/byte_stream_construction.dir/build.make tests/CMakeFiles/byte_stream_construction.dir/build
+.PHONY : byte_stream_construction/fast
 
 #=============================================================================
 # Target rules for targets named fsm_stream_reassembler_win
@@ -354,6 +484,19 @@ fsm_stream_reassembler_win: cmake_check_build_system
 fsm_stream_reassembler_win/fast:
 	$(MAKE) -f tests/CMakeFiles/fsm_stream_reassembler_win.dir/build.make tests/CMakeFiles/fsm_stream_reassembler_win.dir/build
 .PHONY : fsm_stream_reassembler_win/fast
+
+#=============================================================================
+# Target rules for targets named fsm_stream_reassembler_cap
+
+# Build rule for target.
+fsm_stream_reassembler_cap: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 fsm_stream_reassembler_cap
+.PHONY : fsm_stream_reassembler_cap
+
+# fast build rule for target.
+fsm_stream_reassembler_cap/fast:
+	$(MAKE) -f tests/CMakeFiles/fsm_stream_reassembler_cap.dir/build.make tests/CMakeFiles/fsm_stream_reassembler_cap.dir/build
+.PHONY : fsm_stream_reassembler_cap/fast
 
 #=============================================================================
 # Target rules for targets named spongechecks
@@ -421,19 +564,6 @@ byte_stream_capacity/fast:
 .PHONY : byte_stream_capacity/fast
 
 #=============================================================================
-# Target rules for targets named fsm_stream_reassembler_cap
-
-# Build rule for target.
-fsm_stream_reassembler_cap: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 fsm_stream_reassembler_cap
-.PHONY : fsm_stream_reassembler_cap
-
-# fast build rule for target.
-fsm_stream_reassembler_cap/fast:
-	$(MAKE) -f tests/CMakeFiles/fsm_stream_reassembler_cap.dir/build.make tests/CMakeFiles/fsm_stream_reassembler_cap.dir/build
-.PHONY : fsm_stream_reassembler_cap/fast
-
-#=============================================================================
 # Target rules for targets named byte_stream_two_writes
 
 # Build rule for target.
@@ -445,6 +575,19 @@ byte_stream_two_writes: cmake_check_build_system
 byte_stream_two_writes/fast:
 	$(MAKE) -f tests/CMakeFiles/byte_stream_two_writes.dir/build.make tests/CMakeFiles/byte_stream_two_writes.dir/build
 .PHONY : byte_stream_two_writes/fast
+
+#=============================================================================
+# Target rules for targets named wrapping_integers_wrap
+
+# Build rule for target.
+wrapping_integers_wrap: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 wrapping_integers_wrap
+.PHONY : wrapping_integers_wrap
+
+# fast build rule for target.
+wrapping_integers_wrap/fast:
+	$(MAKE) -f tests/CMakeFiles/wrapping_integers_wrap.dir/build.make tests/CMakeFiles/wrapping_integers_wrap.dir/build
+.PHONY : wrapping_integers_wrap/fast
 
 #=============================================================================
 # Target rules for targets named byte_stream_many_writes
@@ -519,19 +662,30 @@ help:
 	@echo "... check_lab2"
 	@echo "... sponge"
 	@echo "... webget"
-	@echo "... fsm_stream_reassembler_holes"
+	@echo "... recv_special"
+	@echo "... recv_reorder"
+	@echo "... recv_close"
+	@echo "... recv_window"
+	@echo "... recv_transmit"
+	@echo "... recv_connect"
+	@echo "... wrapping_integers_roundtrip"
+	@echo "... wrapping_integers_unwrap"
 	@echo "... fsm_stream_reassembler_seq"
-	@echo "... byte_stream_construction"
-	@echo "... fsm_stream_reassembler_dup"
 	@echo "... fsm_stream_reassembler_single"
+	@echo "... wrapping_integers_cmp"
+	@echo "... fsm_stream_reassembler_holes"
+	@echo "... tcp_parser"
+	@echo "... fsm_stream_reassembler_dup"
+	@echo "... byte_stream_construction"
 	@echo "... fsm_stream_reassembler_win"
+	@echo "... fsm_stream_reassembler_cap"
 	@echo "... spongechecks"
 	@echo "... byte_stream_one_write"
 	@echo "... fsm_stream_reassembler_many"
 	@echo "... fsm_stream_reassembler_overlapping"
 	@echo "... byte_stream_capacity"
-	@echo "... fsm_stream_reassembler_cap"
 	@echo "... byte_stream_two_writes"
+	@echo "... wrapping_integers_wrap"
 	@echo "... byte_stream_many_writes"
 	@echo "... socket_dt"
 	@echo "... address_dt"
