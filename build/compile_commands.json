@@ -16,6 +16,11 @@
 },
 {
   "directory": "/home/lys/cs144_assignments/build/libsponge",
+  "command": "/usr/bin/c++   -I/home/lys/cs144_assignments/libsponge/util -I/home/lys/cs144_assignments/libsponge/tcp_helpers -I/home/lys/cs144_assignments/libsponge   -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -O3 -DNDEBUG   -std=gnu++1z -o CMakeFiles/sponge.dir/tcp_sender.cc.o -c /home/lys/cs144_assignments/libsponge/tcp_sender.cc",
+  "file": "/home/lys/cs144_assignments/libsponge/tcp_sender.cc"
+},
+{
+  "directory": "/home/lys/cs144_assignments/build/libsponge",
   "command": "/usr/bin/c++   -I/home/lys/cs144_assignments/libsponge/util -I/home/lys/cs144_assignments/libsponge/tcp_helpers -I/home/lys/cs144_assignments/libsponge   -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -O3 -DNDEBUG   -std=gnu++1z -o CMakeFiles/sponge.dir/wrapping_integers.cc.o -c /home/lys/cs144_assignments/libsponge/wrapping_integers.cc",
   "file": "/home/lys/cs144_assignments/libsponge/wrapping_integers.cc"
 },
@@ -81,6 +86,36 @@
 },
 {
   "directory": "/home/lys/cs144_assignments/build/tests",
+  "command": "/usr/bin/c++   -I/home/lys/cs144_assignments/libsponge/util -I/home/lys/cs144_assignments/libsponge/tcp_helpers -I/home/lys/cs144_assignments/libsponge   -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -O3 -DNDEBUG   -std=gnu++1z -o CMakeFiles/send_close.dir/send_close.cc.o -c /home/lys/cs144_assignments/tests/send_close.cc",
+  "file": "/home/lys/cs144_assignments/tests/send_close.cc"
+},
+{
+  "directory": "/home/lys/cs144_assignments/build/tests",
+  "command": "/usr/bin/c++   -I/home/lys/cs144_assignments/libsponge/util -I/home/lys/cs144_assignments/libsponge/tcp_helpers -I/home/lys/cs144_assignments/libsponge   -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -O3 -DNDEBUG   -std=gnu++1z -o CMakeFiles/send_ack.dir/send_ack.cc.o -c /home/lys/cs144_assignments/tests/send_ack.cc",
+  "file": "/home/lys/cs144_assignments/tests/send_ack.cc"
+},
+{
+  "directory": "/home/lys/cs144_assignments/build/tests",
+  "command": "/usr/bin/c++   -I/home/lys/cs144_assignments/libsponge/util -I/home/lys/cs144_assignments/libsponge/tcp_helpers -I/home/lys/cs144_assignments/libsponge   -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -O3 -DNDEBUG   -std=gnu++1z -o CMakeFiles/send_window.dir/send_window.cc.o -c /home/lys/cs144_assignments/tests/send_window.cc",
+  "file": "/home/lys/cs144_assignments/tests/send_window.cc"
+},
+{
+  "directory": "/home/lys/cs144_assignments/build/tests",
+  "command": "/usr/bin/c++   -I/home/lys/cs144_assignments/libsponge/util -I/home/lys/cs144_assignments/libsponge/tcp_helpers -I/home/lys/cs144_assignments/libsponge   -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -O3 -DNDEBUG   -std=gnu++1z -o CMakeFiles/send_retx.dir/send_retx.cc.o -c /home/lys/cs144_assignments/tests/send_retx.cc",
+  "file": "/home/lys/cs144_assignments/tests/send_retx.cc"
+},
+{
+  "directory": "/home/lys/cs144_assignments/build/tests",
+  "command": "/usr/bin/c++   -I/home/lys/cs144_assignments/libsponge/util -I/home/lys/cs144_assignments/libsponge/tcp_helpers -I/home/lys/cs144_assignments/libsponge   -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -O3 -DNDEBUG   -std=gnu++1z -o CMakeFiles/send_transmit.dir/send_transmit.cc.o -c /home/lys/cs144_assignments/tests/send_transmit.cc",
+  "file": "/home/lys/cs144_assignments/tests/send_transmit.cc"
+},
+{
+  "directory": "/home/lys/cs144_assignments/build/tests",
+  "command": "/usr/bin/c++   -I/home/lys/cs144_assignments/libsponge/util -I/home/lys/cs144_assignments/libsponge/tcp_helpers -I/home/lys/cs144_assignments/libsponge   -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -O3 -DNDEBUG   -std=gnu++1z -o CMakeFiles/send_connect.dir/send_connect.cc.o -c /home/lys/cs144_assignments/tests/send_connect.cc",
+  "file": "/home/lys/cs144_assignments/tests/send_connect.cc"
+},
+{
+  "directory": "/home/lys/cs144_assignments/build/tests",
   "command": "/usr/bin/c++   -I/home/lys/cs144_assignments/libsponge/util -I/home/lys/cs144_assignments/libsponge/tcp_helpers -I/home/lys/cs144_assignments/libsponge   -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -O3 -DNDEBUG   -std=gnu++1z -o CMakeFiles/recv_special.dir/recv_special.cc.o -c /home/lys/cs144_assignments/tests/recv_special.cc",
   "file": "/home/lys/cs144_assignments/tests/recv_special.cc"
 },
@@ -118,6 +153,11 @@
   "directory": "/home/lys/cs144_assignments/build/tests",
   "command": "/usr/bin/c++   -I/home/lys/cs144_assignments/libsponge/util -I/home/lys/cs144_assignments/libsponge/tcp_helpers -I/home/lys/cs144_assignments/libsponge   -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -O3 -DNDEBUG   -std=gnu++1z -o CMakeFiles/wrapping_integers_unwrap.dir/wrapping_integers_unwrap.cc.o -c /home/lys/cs144_assignments/tests/wrapping_integers_unwrap.cc",
   "file": "/home/lys/cs144_assignments/tests/wrapping_integers_unwrap.cc"
+},
+{
+  "directory": "/home/lys/cs144_assignments/build/tests",
+  "command": "/usr/bin/c++   -I/home/lys/cs144_assignments/libsponge/util -I/home/lys/cs144_assignments/libsponge/tcp_helpers -I/home/lys/cs144_assignments/libsponge   -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -O3 -DNDEBUG   -std=gnu++1z -o CMakeFiles/send_extra.dir/send_extra.cc.o -c /home/lys/cs144_assignments/tests/send_extra.cc",
+  "file": "/home/lys/cs144_assignments/tests/send_extra.cc"
 },
 {
   "directory": "/home/lys/cs144_assignments/build/tests",

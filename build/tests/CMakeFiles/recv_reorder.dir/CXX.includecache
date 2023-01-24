@@ -22,6 +22,18 @@ string
 vector
 -
 
+../libsponge/tcp_helpers/tcp_config.hh
+address.hh
+../libsponge/tcp_helpers/address.hh
+wrapping_integers.hh
+../libsponge/tcp_helpers/wrapping_integers.hh
+cstddef
+-
+cstdint
+-
+optional
+-
+
 ../libsponge/tcp_helpers/tcp_header.hh
 parser.hh
 ../libsponge/tcp_helpers/parser.hh
@@ -39,6 +51,8 @@ cstdint
 ../libsponge/tcp_helpers/tcp_state.hh
 tcp_receiver.hh
 ../libsponge/tcp_helpers/tcp_receiver.hh
+tcp_sender.hh
+../libsponge/tcp_helpers/tcp_sender.hh
 string
 -
 
@@ -52,6 +66,36 @@ tcp_segment.hh
 wrapping_integers.hh
 ../libsponge/wrapping_integers.hh
 optional
+-
+
+../libsponge/tcp_sender.hh
+byte_stream.hh
+../libsponge/byte_stream.hh
+tcp_config.hh
+../libsponge/tcp_config.hh
+tcp_segment.hh
+../libsponge/tcp_segment.hh
+wrapping_integers.hh
+../libsponge/wrapping_integers.hh
+functional
+-
+queue
+-
+
+../libsponge/util/address.hh
+cstddef
+-
+cstdint
+-
+netdb.h
+-
+netinet/in.h
+-
+string
+-
+sys/socket.h
+-
+utility
 -
 
 ../libsponge/util/buffer.hh

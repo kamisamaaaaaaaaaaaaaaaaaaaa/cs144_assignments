@@ -21,6 +21,12 @@
 /home/lys/cs144_assignments/build/apps/CMakeFiles/test.dir
 /home/lys/cs144_assignments/build/tests/CMakeFiles/rebuild_cache.dir
 /home/lys/cs144_assignments/build/tests/CMakeFiles/test.dir
+/home/lys/cs144_assignments/build/tests/CMakeFiles/send_close.dir
+/home/lys/cs144_assignments/build/tests/CMakeFiles/send_ack.dir
+/home/lys/cs144_assignments/build/tests/CMakeFiles/send_window.dir
+/home/lys/cs144_assignments/build/tests/CMakeFiles/send_retx.dir
+/home/lys/cs144_assignments/build/tests/CMakeFiles/send_transmit.dir
+/home/lys/cs144_assignments/build/tests/CMakeFiles/send_connect.dir
 /home/lys/cs144_assignments/build/tests/CMakeFiles/recv_special.dir
 /home/lys/cs144_assignments/build/tests/CMakeFiles/recv_reorder.dir
 /home/lys/cs144_assignments/build/tests/CMakeFiles/recv_close.dir
@@ -29,6 +35,7 @@
 /home/lys/cs144_assignments/build/tests/CMakeFiles/recv_connect.dir
 /home/lys/cs144_assignments/build/tests/CMakeFiles/wrapping_integers_roundtrip.dir
 /home/lys/cs144_assignments/build/tests/CMakeFiles/wrapping_integers_unwrap.dir
+/home/lys/cs144_assignments/build/tests/CMakeFiles/send_extra.dir
 /home/lys/cs144_assignments/build/tests/CMakeFiles/fsm_stream_reassembler_seq.dir
 /home/lys/cs144_assignments/build/tests/CMakeFiles/fsm_stream_reassembler_single.dir
 /home/lys/cs144_assignments/build/tests/CMakeFiles/wrapping_integers_cmp.dir

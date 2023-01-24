@@ -2,6 +2,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/sponge.dir/byte_stream.cc.o"
   "CMakeFiles/sponge.dir/stream_reassembler.cc.o"
   "CMakeFiles/sponge.dir/tcp_receiver.cc.o"
+  "CMakeFiles/sponge.dir/tcp_sender.cc.o"
   "CMakeFiles/sponge.dir/wrapping_integers.cc.o"
   "CMakeFiles/sponge.dir/util/address.cc.o"
   "CMakeFiles/sponge.dir/util/buffer.cc.o"
