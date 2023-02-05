@@ -207,6 +207,9 @@ sponge_LIB_DEPENDS:STATIC=
 //Dependencies for target
 spongechecks_LIB_DEPENDS:STATIC=
 
+//Dependencies for target
+stream_copy_LIB_DEPENDS:STATIC=
+
 
 ########################
 # INTERNAL cache entries

@@ -43,3 +43,4 @@ uint64_t unwrap(WrappingInt32 n, WrappingInt32 isn, uint64_t checkpoint)
     }
     return checkpoint + static_cast<int32_t>(diff);
 }
+
