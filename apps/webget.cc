@@ -1,4 +1,4 @@
-#include "socket.hh"
+#include "tcp_sponge_socket.hh"
 #include "util.hh"
 
 #include <cstdlib>
@@ -6,7 +6,8 @@
 
 using namespace std;
 
-void get_URL(const string &host, const string &path) {
+void get_URL(const string &host, const string &path)
+{
     // Your code here.
 
     // You will need to connect to the "http" service on
@@ -18,7 +19,7 @@ void get_URL(const string &host, const string &path) {
     // the "eof" (end of file).
 
     // 创建socket
-    auto sc = TCPSocket();
+    auto sc = CS144TCPSocket();
 
     // 连接到服务器
     auto addr = Address(host, "http");
@@ -33,30 +34,35 @@ void get_URL(const string &host, const string &path) {
     sc.write(" \r\n");
     sc.write("Connection: close\r\n\r\n");
 
-    sc.shutdown(SHUT_WR);
-
     // 服务器把消息写到socket中后，client从里面读，只要没读完就会继续（end of file）
     // 并将读到的信息打印出来
-    while (!sc.eof()) {
+    while (!sc.eof())
+    {
         printf("%s", sc.read().c_str());
     }
 
-    sc.close();
+    sc.shutdown(SHUT_WR);
+
+    sc.wait_until_closed();
 
     // cerr << "Function called: get_URL(" << host << ", " << path << ").\n";
     // cerr << "Warning: get_URL() has not been implemented yet.\n";
 }
 
-int main(int argc, char *argv[]) {
-    try {
-        if (argc <= 0) {
-            abort();  // For sticklers: don't try to access argv[0] if argc <= 0.
+int main(int argc, char *argv[])
+{
+    try
+    {
+        if (argc <= 0)
+        {
+            abort(); // For sticklers: don't try to access argv[0] if argc <= 0.
         }
 
         // The program takes two command-line arguments: the hostname and "path" part of the URL.
         // Print the usage message unless there are these two arguments (plus the program name
         // itself, so arg count = 3 in total).
-        if (argc != 3) {
+        if (argc != 3)
+        {
             cerr << "Usage: " << argv[0] << " HOST PATH\n";
             cerr << "\tExample: " << argv[0] << " stanford.edu /class/cs144\n";
             return EXIT_FAILURE;
@@ -68,7 +74,9 @@ int main(int argc, char *argv[]) {
 
         // Call the student-written function.
         get_URL(host, path);
-    } catch (const exception &e) {
+    }
+    catch (const exception &e)
+    {
         cerr << e.what() << "\n";
         return EXIT_FAILURE;
     }

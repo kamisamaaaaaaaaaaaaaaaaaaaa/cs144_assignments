@@ -1,17 +1,17 @@
-Start testing: Feb 05 17:55 CST
+Start testing: Feb 13 17:27 CST
 ----------------------------------------------------------
 1/169 Testing: t_wrapping_ints_cmp
 1/169 Test: t_wrapping_ints_cmp
 Command: "/home/lys/cs144_assignments/build/tests/wrapping_integers_cmp"
 Directory: /home/lys/cs144_assignments/build
-"t_wrapping_ints_cmp" start time: Feb 05 17:55 CST
+"t_wrapping_ints_cmp" start time: Feb 13 17:27 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"t_wrapping_ints_cmp" end time: Feb 05 17:55 CST
+"t_wrapping_ints_cmp" end time: Feb 13 17:27 CST
 "t_wrapping_ints_cmp" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -19,14 +19,14 @@ Test Passed.
 2/169 Test: t_wrapping_ints_unwrap
 Command: "/home/lys/cs144_assignments/build/tests/wrapping_integers_unwrap"
 Directory: /home/lys/cs144_assignments/build
-"t_wrapping_ints_unwrap" start time: Feb 05 17:55 CST
+"t_wrapping_ints_unwrap" start time: Feb 13 17:27 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"t_wrapping_ints_unwrap" end time: Feb 05 17:55 CST
+"t_wrapping_ints_unwrap" end time: Feb 13 17:27 CST
 "t_wrapping_ints_unwrap" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -34,14 +34,14 @@ Test Passed.
 3/169 Test: t_wrapping_ints_wrap
 Command: "/home/lys/cs144_assignments/build/tests/wrapping_integers_wrap"
 Directory: /home/lys/cs144_assignments/build
-"t_wrapping_ints_wrap" start time: Feb 05 17:55 CST
+"t_wrapping_ints_wrap" start time: Feb 13 17:27 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"t_wrapping_ints_wrap" end time: Feb 05 17:55 CST
+"t_wrapping_ints_wrap" end time: Feb 13 17:27 CST
 "t_wrapping_ints_wrap" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -49,14 +49,14 @@ Test Passed.
 4/169 Test: t_wrapping_ints_roundtrip
 Command: "/home/lys/cs144_assignments/build/tests/wrapping_integers_roundtrip"
 Directory: /home/lys/cs144_assignments/build
-"t_wrapping_ints_roundtrip" start time: Feb 05 17:55 CST
+"t_wrapping_ints_roundtrip" start time: Feb 13 17:27 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.08 sec
 ----------------------------------------------------------
 Test Passed.
-"t_wrapping_ints_roundtrip" end time: Feb 05 17:55 CST
+"t_wrapping_ints_roundtrip" end time: Feb 13 17:27 CST
 "t_wrapping_ints_roundtrip" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -64,14 +64,14 @@ Test Passed.
 5/169 Test: t_recv_connect
 Command: "/home/lys/cs144_assignments/build/tests/recv_connect"
 Directory: /home/lys/cs144_assignments/build
-"t_recv_connect" start time: Feb 05 17:55 CST
+"t_recv_connect" start time: Feb 13 17:27 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"t_recv_connect" end time: Feb 05 17:55 CST
+"t_recv_connect" end time: Feb 13 17:27 CST
 "t_recv_connect" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -79,14 +79,14 @@ Test Passed.
 6/169 Test: t_recv_transmit
 Command: "/home/lys/cs144_assignments/build/tests/recv_transmit"
 Directory: /home/lys/cs144_assignments/build
-"t_recv_transmit" start time: Feb 05 17:55 CST
+"t_recv_transmit" start time: Feb 13 17:27 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.03 sec
 ----------------------------------------------------------
 Test Passed.
-"t_recv_transmit" end time: Feb 05 17:55 CST
+"t_recv_transmit" end time: Feb 13 17:27 CST
 "t_recv_transmit" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -94,14 +94,14 @@ Test Passed.
 7/169 Test: t_recv_window
 Command: "/home/lys/cs144_assignments/build/tests/recv_window"
 Directory: /home/lys/cs144_assignments/build
-"t_recv_window" start time: Feb 05 17:55 CST
+"t_recv_window" start time: Feb 13 17:27 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"t_recv_window" end time: Feb 05 17:55 CST
+"t_recv_window" end time: Feb 13 17:27 CST
 "t_recv_window" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -109,14 +109,14 @@ Test Passed.
 8/169 Test: t_recv_reorder
 Command: "/home/lys/cs144_assignments/build/tests/recv_reorder"
 Directory: /home/lys/cs144_assignments/build
-"t_recv_reorder" start time: Feb 05 17:55 CST
+"t_recv_reorder" start time: Feb 13 17:27 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"t_recv_reorder" end time: Feb 05 17:55 CST
+"t_recv_reorder" end time: Feb 13 17:27 CST
 "t_recv_reorder" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -124,14 +124,14 @@ Test Passed.
 9/169 Test: t_recv_close
 Command: "/home/lys/cs144_assignments/build/tests/recv_close"
 Directory: /home/lys/cs144_assignments/build
-"t_recv_close" start time: Feb 05 17:55 CST
+"t_recv_close" start time: Feb 13 17:27 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"t_recv_close" end time: Feb 05 17:55 CST
+"t_recv_close" end time: Feb 13 17:27 CST
 "t_recv_close" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -139,14 +139,14 @@ Test Passed.
 10/169 Test: t_recv_special
 Command: "/home/lys/cs144_assignments/build/tests/recv_special"
 Directory: /home/lys/cs144_assignments/build
-"t_recv_special" start time: Feb 05 17:55 CST
+"t_recv_special" start time: Feb 13 17:27 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"t_recv_special" end time: Feb 05 17:55 CST
+"t_recv_special" end time: Feb 13 17:27 CST
 "t_recv_special" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -154,14 +154,14 @@ Test Passed.
 11/169 Test: t_send_connect
 Command: "/home/lys/cs144_assignments/build/tests/send_connect"
 Directory: /home/lys/cs144_assignments/build
-"t_send_connect" start time: Feb 05 17:55 CST
+"t_send_connect" start time: Feb 13 17:27 CST
 Output:
 ----------------------------------------------------------
 <end of output>
-Test time =   0.00 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"t_send_connect" end time: Feb 05 17:55 CST
+"t_send_connect" end time: Feb 13 17:27 CST
 "t_send_connect" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -169,14 +169,14 @@ Test Passed.
 12/169 Test: t_send_transmit
 Command: "/home/lys/cs144_assignments/build/tests/send_transmit"
 Directory: /home/lys/cs144_assignments/build
-"t_send_transmit" start time: Feb 05 17:55 CST
+"t_send_transmit" start time: Feb 13 17:27 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.03 sec
 ----------------------------------------------------------
 Test Passed.
-"t_send_transmit" end time: Feb 05 17:55 CST
+"t_send_transmit" end time: Feb 13 17:27 CST
 "t_send_transmit" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -184,14 +184,14 @@ Test Passed.
 13/169 Test: t_send_retx
 Command: "/home/lys/cs144_assignments/build/tests/send_retx"
 Directory: /home/lys/cs144_assignments/build
-"t_send_retx" start time: Feb 05 17:55 CST
+"t_send_retx" start time: Feb 13 17:27 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"t_send_retx" end time: Feb 05 17:55 CST
+"t_send_retx" end time: Feb 13 17:27 CST
 "t_send_retx" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -199,14 +199,14 @@ Test Passed.
 14/169 Test: t_send_window
 Command: "/home/lys/cs144_assignments/build/tests/send_window"
 Directory: /home/lys/cs144_assignments/build
-"t_send_window" start time: Feb 05 17:55 CST
+"t_send_window" start time: Feb 13 17:27 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"t_send_window" end time: Feb 05 17:55 CST
+"t_send_window" end time: Feb 13 17:27 CST
 "t_send_window" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -214,14 +214,14 @@ Test Passed.
 15/169 Test: t_send_ack
 Command: "/home/lys/cs144_assignments/build/tests/send_ack"
 Directory: /home/lys/cs144_assignments/build
-"t_send_ack" start time: Feb 05 17:55 CST
+"t_send_ack" start time: Feb 13 17:27 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"t_send_ack" end time: Feb 05 17:55 CST
+"t_send_ack" end time: Feb 13 17:27 CST
 "t_send_ack" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -229,14 +229,14 @@ Test Passed.
 16/169 Test: t_send_close
 Command: "/home/lys/cs144_assignments/build/tests/send_close"
 Directory: /home/lys/cs144_assignments/build
-"t_send_close" start time: Feb 05 17:55 CST
+"t_send_close" start time: Feb 13 17:27 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"t_send_close" end time: Feb 05 17:55 CST
+"t_send_close" end time: Feb 13 17:27 CST
 "t_send_close" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -244,14 +244,14 @@ Test Passed.
 17/169 Test: t_send_extra
 Command: "/home/lys/cs144_assignments/build/tests/send_extra"
 Directory: /home/lys/cs144_assignments/build
-"t_send_extra" start time: Feb 05 17:55 CST
+"t_send_extra" start time: Feb 13 17:27 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"t_send_extra" end time: Feb 05 17:55 CST
+"t_send_extra" end time: Feb 13 17:27 CST
 "t_send_extra" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -259,14 +259,14 @@ Test Passed.
 18/169 Test: t_strm_reassem_single
 Command: "/home/lys/cs144_assignments/build/tests/fsm_stream_reassembler_single"
 Directory: /home/lys/cs144_assignments/build
-"t_strm_reassem_single" start time: Feb 05 17:55 CST
+"t_strm_reassem_single" start time: Feb 13 17:27 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"t_strm_reassem_single" end time: Feb 05 17:55 CST
+"t_strm_reassem_single" end time: Feb 13 17:27 CST
 "t_strm_reassem_single" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -274,14 +274,14 @@ Test Passed.
 19/169 Test: t_strm_reassem_seq
 Command: "/home/lys/cs144_assignments/build/tests/fsm_stream_reassembler_seq"
 Directory: /home/lys/cs144_assignments/build
-"t_strm_reassem_seq" start time: Feb 05 17:55 CST
+"t_strm_reassem_seq" start time: Feb 13 17:27 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"t_strm_reassem_seq" end time: Feb 05 17:55 CST
+"t_strm_reassem_seq" end time: Feb 13 17:27 CST
 "t_strm_reassem_seq" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -289,14 +289,14 @@ Test Passed.
 20/169 Test: t_strm_reassem_dup
 Command: "/home/lys/cs144_assignments/build/tests/fsm_stream_reassembler_dup"
 Directory: /home/lys/cs144_assignments/build
-"t_strm_reassem_dup" start time: Feb 05 17:55 CST
+"t_strm_reassem_dup" start time: Feb 13 17:27 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"t_strm_reassem_dup" end time: Feb 05 17:55 CST
+"t_strm_reassem_dup" end time: Feb 13 17:27 CST
 "t_strm_reassem_dup" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -304,14 +304,14 @@ Test Passed.
 21/169 Test: t_strm_reassem_holes
 Command: "/home/lys/cs144_assignments/build/tests/fsm_stream_reassembler_holes"
 Directory: /home/lys/cs144_assignments/build
-"t_strm_reassem_holes" start time: Feb 05 17:55 CST
+"t_strm_reassem_holes" start time: Feb 13 17:27 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"t_strm_reassem_holes" end time: Feb 05 17:55 CST
+"t_strm_reassem_holes" end time: Feb 13 17:27 CST
 "t_strm_reassem_holes" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -319,14 +319,14 @@ Test Passed.
 22/169 Test: t_strm_reassem_many
 Command: "/home/lys/cs144_assignments/build/tests/fsm_stream_reassembler_many"
 Directory: /home/lys/cs144_assignments/build
-"t_strm_reassem_many" start time: Feb 05 17:55 CST
+"t_strm_reassem_many" start time: Feb 13 17:27 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.08 sec
 ----------------------------------------------------------
 Test Passed.
-"t_strm_reassem_many" end time: Feb 05 17:55 CST
+"t_strm_reassem_many" end time: Feb 13 17:27 CST
 "t_strm_reassem_many" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -334,14 +334,14 @@ Test Passed.
 23/169 Test: t_strm_reassem_overlapping
 Command: "/home/lys/cs144_assignments/build/tests/fsm_stream_reassembler_overlapping"
 Directory: /home/lys/cs144_assignments/build
-"t_strm_reassem_overlapping" start time: Feb 05 17:55 CST
+"t_strm_reassem_overlapping" start time: Feb 13 17:27 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"t_strm_reassem_overlapping" end time: Feb 05 17:55 CST
+"t_strm_reassem_overlapping" end time: Feb 13 17:27 CST
 "t_strm_reassem_overlapping" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -349,14 +349,14 @@ Test Passed.
 24/169 Test: t_strm_reassem_win
 Command: "/home/lys/cs144_assignments/build/tests/fsm_stream_reassembler_win"
 Directory: /home/lys/cs144_assignments/build
-"t_strm_reassem_win" start time: Feb 05 17:55 CST
+"t_strm_reassem_win" start time: Feb 13 17:27 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.08 sec
 ----------------------------------------------------------
 Test Passed.
-"t_strm_reassem_win" end time: Feb 05 17:55 CST
+"t_strm_reassem_win" end time: Feb 13 17:27 CST
 "t_strm_reassem_win" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -364,14 +364,14 @@ Test Passed.
 25/169 Test: t_strm_reassem_cap
 Command: "/home/lys/cs144_assignments/build/tests/fsm_stream_reassembler_cap"
 Directory: /home/lys/cs144_assignments/build
-"t_strm_reassem_cap" start time: Feb 05 17:55 CST
+"t_strm_reassem_cap" start time: Feb 13 17:27 CST
 Output:
 ----------------------------------------------------------
 <end of output>
-Test time =   0.06 sec
+Test time =   0.07 sec
 ----------------------------------------------------------
 Test Passed.
-"t_strm_reassem_cap" end time: Feb 05 17:55 CST
+"t_strm_reassem_cap" end time: Feb 13 17:27 CST
 "t_strm_reassem_cap" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -379,14 +379,14 @@ Test Passed.
 26/169 Test: t_byte_stream_construction
 Command: "/home/lys/cs144_assignments/build/tests/byte_stream_construction"
 Directory: /home/lys/cs144_assignments/build
-"t_byte_stream_construction" start time: Feb 05 17:55 CST
+"t_byte_stream_construction" start time: Feb 13 17:27 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"t_byte_stream_construction" end time: Feb 05 17:55 CST
+"t_byte_stream_construction" end time: Feb 13 17:27 CST
 "t_byte_stream_construction" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -394,14 +394,14 @@ Test Passed.
 27/169 Test: t_byte_stream_one_write
 Command: "/home/lys/cs144_assignments/build/tests/byte_stream_one_write"
 Directory: /home/lys/cs144_assignments/build
-"t_byte_stream_one_write" start time: Feb 05 17:55 CST
+"t_byte_stream_one_write" start time: Feb 13 17:27 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"t_byte_stream_one_write" end time: Feb 05 17:55 CST
+"t_byte_stream_one_write" end time: Feb 13 17:27 CST
 "t_byte_stream_one_write" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -409,14 +409,14 @@ Test Passed.
 28/169 Test: t_byte_stream_two_writes
 Command: "/home/lys/cs144_assignments/build/tests/byte_stream_two_writes"
 Directory: /home/lys/cs144_assignments/build
-"t_byte_stream_two_writes" start time: Feb 05 17:55 CST
+"t_byte_stream_two_writes" start time: Feb 13 17:27 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"t_byte_stream_two_writes" end time: Feb 05 17:55 CST
+"t_byte_stream_two_writes" end time: Feb 13 17:27 CST
 "t_byte_stream_two_writes" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -424,14 +424,14 @@ Test Passed.
 29/169 Test: t_byte_stream_capacity
 Command: "/home/lys/cs144_assignments/build/tests/byte_stream_capacity"
 Directory: /home/lys/cs144_assignments/build
-"t_byte_stream_capacity" start time: Feb 05 17:55 CST
+"t_byte_stream_capacity" start time: Feb 13 17:27 CST
 Output:
 ----------------------------------------------------------
 <end of output>
-Test time =   0.27 sec
+Test time =   0.30 sec
 ----------------------------------------------------------
 Test Passed.
-"t_byte_stream_capacity" end time: Feb 05 17:55 CST
+"t_byte_stream_capacity" end time: Feb 13 17:27 CST
 "t_byte_stream_capacity" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -439,29 +439,502 @@ Test Passed.
 30/169 Test: t_byte_stream_many_writes
 Command: "/home/lys/cs144_assignments/build/tests/byte_stream_many_writes"
 Directory: /home/lys/cs144_assignments/build
-"t_byte_stream_many_writes" start time: Feb 05 17:55 CST
+"t_byte_stream_many_writes" start time: Feb 13 17:27 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"t_byte_stream_many_writes" end time: Feb 05 17:55 CST
+"t_byte_stream_many_writes" end time: Feb 13 17:27 CST
 "t_byte_stream_many_writes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+31/169 Testing: t_webget
+31/169 Test: t_webget
+Command: "/home/lys/cs144_assignments/tests/webget_t.sh"
+Directory: /home/lys/cs144_assignments/build
+"t_webget" start time: Feb 13 17:27 CST
+Output:
+----------------------------------------------------------
+DEBUG: Connecting to 104.196.238.229:80... done.
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 104.196.238.229:80 finished cleanly.
+HTTP/1.1 200 OK
+Content-type: text/plain
+
+7SmXqWkrLKzVBCEalbSPqBcvs11Pw263K7x4Wv3JckI
+DEBUG: Outbound stream to 104.196.238.229:80 finished (1 byte still in flight).
+DEBUG: Outbound stream to 104.196.238.229:80 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   1.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_webget" end time: Feb 13 17:27 CST
+"t_webget" time elapsed: 00:00:01
+----------------------------------------------------------
+
+34/169 Testing: t_tcp_parser
+34/169 Test: t_tcp_parser
+Command: "/home/lys/cs144_assignments/build/tests/tcp_parser" "/home/lys/cs144_assignments/tests/ipv4_parser.data"
+Directory: /home/lys/cs144_assignments/build
+"t_tcp_parser" start time: Feb 13 17:27 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_tcp_parser" end time: Feb 13 17:27 CST
+"t_tcp_parser" time elapsed: 00:00:00
+----------------------------------------------------------
+
+35/169 Testing: t_ipv4_parser
+35/169 Test: t_ipv4_parser
+Command: "/home/lys/cs144_assignments/build/tests/ipv4_parser" "/home/lys/cs144_assignments/tests/ipv4_parser.data"
+Directory: /home/lys/cs144_assignments/build
+"t_ipv4_parser" start time: Feb 13 17:27 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_ipv4_parser" end time: Feb 13 17:27 CST
+"t_ipv4_parser" time elapsed: 00:00:00
+----------------------------------------------------------
+
+36/169 Testing: t_active_close
+36/169 Test: t_active_close
+Command: "/home/lys/cs144_assignments/build/tests/fsm_active_close"
+Directory: /home/lys/cs144_assignments/build
+"t_active_close" start time: Feb 13 17:27 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_active_close" end time: Feb 13 17:27 CST
+"t_active_close" time elapsed: 00:00:00
+----------------------------------------------------------
+
+37/169 Testing: t_passive_close
+37/169 Test: t_passive_close
+Command: "/home/lys/cs144_assignments/build/tests/fsm_passive_close"
+Directory: /home/lys/cs144_assignments/build
+"t_passive_close" start time: Feb 13 17:27 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_passive_close" end time: Feb 13 17:27 CST
+"t_passive_close" time elapsed: 00:00:00
+----------------------------------------------------------
+
+39/169 Testing: t_ack_rst
+39/169 Test: t_ack_rst
+Command: "/home/lys/cs144_assignments/build/tests/fsm_ack_rst_relaxed"
+Directory: /home/lys/cs144_assignments/build
+"t_ack_rst" start time: Feb 13 17:27 CST
+Output:
+----------------------------------------------------------
+Test 1
+Test 2
+Warning: Unclean shutdown of TCPConnection
+Test 3
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Test 4
+Test 5
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_ack_rst" end time: Feb 13 17:27 CST
+"t_ack_rst" time elapsed: 00:00:00
+----------------------------------------------------------
+
+41/169 Testing: t_ack_rst_win
+41/169 Test: t_ack_rst_win
+Command: "/home/lys/cs144_assignments/build/tests/fsm_ack_rst_win_relaxed"
+Directory: /home/lys/cs144_assignments/build
+"t_ack_rst_win" start time: Feb 13 17:27 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_ack_rst_win" end time: Feb 13 17:27 CST
+"t_ack_rst_win" time elapsed: 00:00:00
+----------------------------------------------------------
+
+43/169 Testing: t_connect
+43/169 Test: t_connect
+Command: "/home/lys/cs144_assignments/build/tests/fsm_connect_relaxed"
+Directory: /home/lys/cs144_assignments/build
+"t_connect" start time: Feb 13 17:27 CST
+Output:
+----------------------------------------------------------
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_connect" end time: Feb 13 17:27 CST
+"t_connect" time elapsed: 00:00:00
+----------------------------------------------------------
+
+45/169 Testing: t_listen
+45/169 Test: t_listen
+Command: "/home/lys/cs144_assignments/build/tests/fsm_listen_relaxed"
+Directory: /home/lys/cs144_assignments/build
+"t_listen" start time: Feb 13 17:27 CST
+Output:
+----------------------------------------------------------
+Warning: Unclean shutdown of TCPConnection
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_listen" end time: Feb 13 17:27 CST
+"t_listen" time elapsed: 00:00:00
+----------------------------------------------------------
+
+46/169 Testing: t_winsize
+46/169 Test: t_winsize
+Command: "/home/lys/cs144_assignments/build/tests/fsm_winsize"
+Directory: /home/lys/cs144_assignments/build
+"t_winsize" start time: Feb 13 17:27 CST
+Output:
+----------------------------------------------------------
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"t_winsize" end time: Feb 13 17:27 CST
+"t_winsize" time elapsed: 00:00:00
+----------------------------------------------------------
+
+48/169 Testing: t_retx
+48/169 Test: t_retx
+Command: "/home/lys/cs144_assignments/build/tests/fsm_retx_relaxed"
+Directory: /home/lys/cs144_assignments/build
+"t_retx" start time: Feb 13 17:27 CST
+Output:
+----------------------------------------------------------
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_retx" end time: Feb 13 17:27 CST
+"t_retx" time elapsed: 00:00:00
+----------------------------------------------------------
+
+49/169 Testing: t_retx_win
+49/169 Test: t_retx_win
+Command: "/home/lys/cs144_assignments/build/tests/fsm_retx_win"
+Directory: /home/lys/cs144_assignments/build
+"t_retx_win" start time: Feb 13 17:27 CST
+Output:
+----------------------------------------------------------
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+Warning: Unclean shutdown of TCPConnection
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+Warning: Unclean shutdown of TCPConnection
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+Warning: Unclean shutdown of TCPConnection
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+Warning: Unclean shutdown of TCPConnection
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+Warning: Unclean shutdown of TCPConnection
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+Warning: Unclean shutdown of TCPConnection
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+Warning: Unclean shutdown of TCPConnection
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+Warning: Unclean shutdown of TCPConnection
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+Warning: Unclean shutdown of TCPConnection
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+  check_segment
+Warning: Unclean shutdown of TCPConnection
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"t_retx_win" end time: Feb 13 17:27 CST
+"t_retx_win" time elapsed: 00:00:00
+----------------------------------------------------------
+
+50/169 Testing: t_loopback
+50/169 Test: t_loopback
+Command: "/home/lys/cs144_assignments/build/tests/fsm_loopback"
+Directory: /home/lys/cs144_assignments/build
+"t_loopback" start time: Feb 13 17:27 CST
+Output:
+----------------------------------------------------------
+Test Failure on expectation:
+	Expectation: TCP has 6679 bytes in flight
+
+Failure message:
+	The TCP has `bytes_in_flight = 137`, but bytes_in_flight was expected to be `6679`
+
+List of steps that executed successfully:
+	Action:      connect
+	Expectation: exactly one segment sent with (A=0,R=0,S=1,F=0,seqno=2516674169,payload_size=0,)
+	Action:      packet arrives: Header(flags=SA,seqno=2516674169,ack=2516674170,win=137) with no payload
+	Expectation: exactly one segment sent with (A=1,R=0,S=0,F=0,ackno=2516674170,payload_size=0,)
+	Action:      packet arrives: Header(flags=A,seqno=2516674170,ack=2516674170,win=65000) with no payload
+	Action:      write (6679 bytes) [51, c5, 6d, 9f, 9c, 30, 56, d3, 24, 3c, 33, 70, 8a, f8, 27, 41, ...]
+	Action:      1ms pass
+
+Warning: Unclean shutdown of TCPConnection
+The TCP has `bytes_in_flight = 137`, but bytes_in_flight was expected to be `6679`
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Failed.
+"t_loopback" end time: Feb 13 17:27 CST
+"t_loopback" time elapsed: 00:00:00
+----------------------------------------------------------
+
+51/169 Testing: t_loopback_win
+51/169 Test: t_loopback_win
+Command: "/home/lys/cs144_assignments/build/tests/fsm_loopback_win"
+Directory: /home/lys/cs144_assignments/build
+"t_loopback_win" start time: Feb 13 17:27 CST
+Output:
+----------------------------------------------------------
+Test Failure on expectation:
+	Expectation: segment sent
+
+Failure message:
+	The TCP should have produces a segment, but did not
+
+List of steps that executed successfully:
+	Action:      connect
+	Expectation: exactly one segment sent with (A=0,R=0,S=1,F=0,seqno=1051639141,payload_size=0,)
+	Action:      packet arrives: Header(flags=SA,seqno=1051639141,ack=1051639142,win=137) with no payload
+	Expectation: exactly one segment sent with (A=1,R=0,S=0,F=0,ackno=1051639142,payload_size=0,)
+	Action:      packet arrives: Header(flags=A,seqno=1051639142,ack=1051639142,win=65000) with no payload
+	Action:      write (6942 bytes) [b7, 36, b4, 13, 1f, 5, 70, 57, 9f, 52, b2, ac, dc, bc, de, 15, ...]
+	Action:      1ms pass
+	Expectation: segment sent
+	Expectation: segment sent with ()
+	Action:      write (984 bytes) [1, c, 9e, 94, 85, 2b, 25, ac, a5, c1, 8b, 2a, df, 6, 2f, f9, ...]
+	Action:      1ms pass
+
+Note:
+	test 2 failed: cannot read after write()
+
+Warning: Unclean shutdown of TCPConnection
+The TCP should have produces a segment, but did not
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Failed.
+"t_loopback_win" end time: Feb 13 17:27 CST
+"t_loopback_win" time elapsed: 00:00:00
+----------------------------------------------------------
+
+52/169 Testing: t_reorder
+52/169 Test: t_reorder
+Command: "/home/lys/cs144_assignments/build/tests/fsm_reorder"
+Directory: /home/lys/cs144_assignments/build
+"t_reorder" start time: Feb 13 17:27 CST
+Output:
+----------------------------------------------------------
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+Warning: Unclean shutdown of TCPConnection
+<end of output>
+Test time =   0.13 sec
+----------------------------------------------------------
+Test Passed.
+"t_reorder" end time: Feb 13 17:27 CST
+"t_reorder" time elapsed: 00:00:00
 ----------------------------------------------------------
 
 53/169 Testing: t_address_dt
 53/169 Test: t_address_dt
 Command: "/home/lys/cs144_assignments/build/doctests/address_dt"
 Directory: /home/lys/cs144_assignments/build
-"t_address_dt" start time: Feb 05 17:55 CST
+"t_address_dt" start time: Feb 13 17:27 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"t_address_dt" end time: Feb 05 17:55 CST
+"t_address_dt" end time: Feb 13 17:27 CST
 "t_address_dt" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -469,14 +942,14 @@ Test Passed.
 54/169 Test: t_parser_dt
 Command: "/home/lys/cs144_assignments/build/doctests/parser_dt"
 Directory: /home/lys/cs144_assignments/build
-"t_parser_dt" start time: Feb 05 17:55 CST
+"t_parser_dt" start time: Feb 13 17:27 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"t_parser_dt" end time: Feb 05 17:55 CST
+"t_parser_dt" end time: Feb 13 17:27 CST
 "t_parser_dt" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -484,15 +957,3079 @@ Test Passed.
 55/169 Test: t_socket_dt
 Command: "/home/lys/cs144_assignments/build/doctests/socket_dt"
 Directory: /home/lys/cs144_assignments/build
-"t_socket_dt" start time: Feb 05 17:55 CST
+"t_socket_dt" start time: Feb 13 17:27 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.00 sec
 ----------------------------------------------------------
 Test Passed.
-"t_socket_dt" end time: Feb 05 17:55 CST
+"t_socket_dt" end time: Feb 13 17:27 CST
 "t_socket_dt" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-End testing: Feb 05 17:55 CST
+56/169 Testing: t_udp_client_send
+56/169 Test: t_udp_client_send
+Command: "/home/lys/cs144_assignments/txrx.sh" "-ucS"
+Directory: /home/lys/cs144_assignments/build
+"t_udp_client_send" start time: Feb 13 17:27 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:10499... done.
+new connection from 169.254.144.1:37225.
+DEBUG: Outbound stream to 169.254.144.1:37225 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:10499 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:37225 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:10499 finished (33 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:37225 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:10499 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_udp_client_send" end time: Feb 13 17:27 CST
+"t_udp_client_send" time elapsed: 00:00:00
+----------------------------------------------------------
+
+57/169 Testing: t_udp_server_send
+57/169 Test: t_udp_server_send
+Command: "/home/lys/cs144_assignments/txrx.sh" "-usS"
+Directory: /home/lys/cs144_assignments/build
+"t_udp_server_send" start time: Feb 13 17:27 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:33718... done.
+new connection from 169.254.144.1:59149.
+DEBUG: Outbound stream to 169.254.144.1:59149 finished (33 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:33718 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:59149 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.144.1:33718 finished (1 byte still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:59149 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:33718 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.23 sec
+----------------------------------------------------------
+Test Passed.
+"t_udp_server_send" end time: Feb 13 17:27 CST
+"t_udp_server_send" time elapsed: 00:00:00
+----------------------------------------------------------
+
+58/169 Testing: t_udp_client_recv
+58/169 Test: t_udp_client_recv
+Command: "/home/lys/cs144_assignments/txrx.sh" "-ucR"
+Directory: /home/lys/cs144_assignments/build
+"t_udp_client_recv" start time: Feb 13 17:27 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:17981... done.
+new connection from 169.254.144.1:59908.
+DEBUG: Outbound stream to 169.254.144.1:59908 finished (33 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:17981 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:59908 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.144.1:17981 finished (1 byte still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:59908 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:17981 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.23 sec
+----------------------------------------------------------
+Test Passed.
+"t_udp_client_recv" end time: Feb 13 17:27 CST
+"t_udp_client_recv" time elapsed: 00:00:00
+----------------------------------------------------------
+
+59/169 Testing: t_udp_server_recv
+59/169 Test: t_udp_server_recv
+Command: "/home/lys/cs144_assignments/txrx.sh" "-usR"
+Directory: /home/lys/cs144_assignments/build
+"t_udp_server_recv" start time: Feb 13 17:27 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:28986... done.
+new connection from 169.254.144.1:59909.
+DEBUG: Outbound stream to 169.254.144.1:59909 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:28986 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:59909 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.144.1:28986 finished (33 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:59909 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:28986 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_udp_server_recv" end time: Feb 13 17:27 CST
+"t_udp_server_recv" time elapsed: 00:00:00
+----------------------------------------------------------
+
+60/169 Testing: t_udp_client_dupl
+60/169 Test: t_udp_client_dupl
+Command: "/home/lys/cs144_assignments/txrx.sh" "-ucD"
+Directory: /home/lys/cs144_assignments/build
+"t_udp_client_dupl" start time: Feb 13 17:27 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:26990... done.
+new connection from 169.254.144.1:47010.
+DEBUG: Outbound stream to 169.254.144.1:47010 finished (33 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:26990 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:47010 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.144.1:26990 finished (33 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:47010 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:26990 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+DEBUG: Waiting for clean shutdown... done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_udp_client_dupl" end time: Feb 13 17:27 CST
+"t_udp_client_dupl" time elapsed: 00:00:00
+----------------------------------------------------------
+
+61/169 Testing: t_udp_server_dupl
+61/169 Test: t_udp_server_dupl
+Command: "/home/lys/cs144_assignments/txrx.sh" "-usD"
+Directory: /home/lys/cs144_assignments/build
+"t_udp_server_dupl" start time: Feb 13 17:27 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:21960... done.
+new connection from 169.254.144.1:58584.
+DEBUG: Outbound stream to 169.254.144.1:58584 finished (33 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:21960 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:58584 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.144.1:21960 finished (33 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:58584 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:21960 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_udp_server_dupl" end time: Feb 13 17:27 CST
+"t_udp_server_dupl" time elapsed: 00:00:00
+----------------------------------------------------------
+
+62/169 Testing: t_ucS_1M_32k
+62/169 Test: t_ucS_1M_32k
+Command: "/home/lys/cs144_assignments/txrx.sh" "-ucSd" "1M" "-w" "32K"
+Directory: /home/lys/cs144_assignments/build
+"t_ucS_1M_32k" start time: Feb 13 17:27 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:12077... done.
+new connection from 169.254.144.1:57747.
+DEBUG: Outbound stream to 169.254.144.1:57747 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:12077 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:57747 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:12077 finished (31768 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:57747 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:12077 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.33 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucS_1M_32k" end time: Feb 13 17:27 CST
+"t_ucS_1M_32k" time elapsed: 00:00:00
+----------------------------------------------------------
+
+63/169 Testing: t_ucS_128K_8K
+63/169 Test: t_ucS_128K_8K
+Command: "/home/lys/cs144_assignments/txrx.sh" "-ucSd" "128K" "-w" "8K"
+Directory: /home/lys/cs144_assignments/build
+"t_ucS_128K_8K" start time: Feb 13 17:27 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:10073... done.
+new connection from 169.254.144.1:58561.
+DEBUG: Outbound stream to 169.254.144.1:58561 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:10073 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:58561 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:10073 finished (6192 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:58561 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:10073 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.25 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucS_128K_8K" end time: Feb 13 17:27 CST
+"t_ucS_128K_8K" time elapsed: 00:00:00
+----------------------------------------------------------
+
+64/169 Testing: t_ucS_16_1
+64/169 Test: t_ucS_16_1
+Command: "/home/lys/cs144_assignments/txrx.sh" "-ucSd" "16" "-w" "1"
+Directory: /home/lys/cs144_assignments/build
+"t_ucS_16_1" start time: Feb 13 17:27 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:21148... done.
+new connection from 169.254.144.1:38861.
+DEBUG: Outbound stream to 169.254.144.1:38861 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:21148 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:38861 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:21148 finished (1 byte still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:38861 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:21148 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucS_16_1" end time: Feb 13 17:27 CST
+"t_ucS_16_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+65/169 Testing: t_ucS_32K_d
+65/169 Test: t_ucS_32K_d
+Command: "/home/lys/cs144_assignments/txrx.sh" "-ucSd" "32K"
+Directory: /home/lys/cs144_assignments/build
+"t_ucS_32K_d" start time: Feb 13 17:27 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:22973... done.
+new connection from 169.254.144.1:52390.
+DEBUG: Outbound stream to 169.254.144.1:52390 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:22973 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:52390 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:22973 finished (32769 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:52390 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:22973 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucS_32K_d" end time: Feb 13 17:27 CST
+"t_ucS_32K_d" time elapsed: 00:00:00
+----------------------------------------------------------
+
+66/169 Testing: t_ucR_1M_32k
+66/169 Test: t_ucR_1M_32k
+Command: "/home/lys/cs144_assignments/txrx.sh" "-ucRd" "1M" "-w" "32K"
+Directory: /home/lys/cs144_assignments/build
+"t_ucR_1M_32k" start time: Feb 13 17:27 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:24436... done.
+new connection from 169.254.144.1:34662.
+DEBUG: Outbound stream to 169.254.144.1:24436 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:34662 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:24436 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:34662 finished (32767 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.1:34662 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:24436 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.34 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucR_1M_32k" end time: Feb 13 17:27 CST
+"t_ucR_1M_32k" time elapsed: 00:00:00
+----------------------------------------------------------
+
+67/169 Testing: t_ucR_128K_8K
+67/169 Test: t_ucR_128K_8K
+Command: "/home/lys/cs144_assignments/txrx.sh" "-ucRd" "128K" "-w" "8K"
+Directory: /home/lys/cs144_assignments/build
+"t_ucR_128K_8K" start time: Feb 13 17:27 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:1319... done.
+new connection from 169.254.144.1:42795.
+DEBUG: Outbound stream to 169.254.144.1:1319 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:42795 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:1319 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:42795 finished (6192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:1319 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:42795 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.28 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucR_128K_8K" end time: Feb 13 17:27 CST
+"t_ucR_128K_8K" time elapsed: 00:00:00
+----------------------------------------------------------
+
+68/169 Testing: t_ucR_16_1
+68/169 Test: t_ucR_16_1
+Command: "/home/lys/cs144_assignments/txrx.sh" "-ucRd" "16" "-w" "1"
+Directory: /home/lys/cs144_assignments/build
+"t_ucR_16_1" start time: Feb 13 17:27 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:27669... done.
+new connection from 169.254.144.1:43830.
+DEBUG: Outbound stream to 169.254.144.1:43830 finished (1 byte still in flight).
+DEBUG: Outbound stream to 169.254.144.1:27669 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:43830 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:27669 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:27669 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:43830 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.25 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucR_16_1" end time: Feb 13 17:27 CST
+"t_ucR_16_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+69/169 Testing: t_ucR_32K_d
+69/169 Test: t_ucR_32K_d
+Command: "/home/lys/cs144_assignments/txrx.sh" "-ucRd" "32K"
+Directory: /home/lys/cs144_assignments/build
+"t_ucR_32K_d" start time: Feb 13 17:27 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:27241... done.
+new connection from 169.254.144.1:40504.
+DEBUG: Outbound stream to 169.254.144.1:40504 finished (32769 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.1:27241 finished (1 byte still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:27241 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:40504 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:27241 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.144.1:40504 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.26 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucR_32K_d" end time: Feb 13 17:27 CST
+"t_ucR_32K_d" time elapsed: 00:00:00
+----------------------------------------------------------
+
+70/169 Testing: t_ucD_1M_32k
+70/169 Test: t_ucD_1M_32k
+Command: "/home/lys/cs144_assignments/txrx.sh" "-ucDd" "1M" "-w" "32K"
+Directory: /home/lys/cs144_assignments/build
+"t_ucD_1M_32k" start time: Feb 13 17:27 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:12683... done.
+new connection from 169.254.144.1:54718.
+DEBUG: Outbound stream to DEBUG: Outbound stream to 169.254.144.1:12683 finished (32768 bytes still in flight).
+169.254.144.1:54718 finished (32768 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:12683 finished cleanly.
+DEBUG: Inbound stream from 169.254.144.1:54718 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:54718 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.144.1:12683 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.72 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucD_1M_32k" end time: Feb 13 17:27 CST
+"t_ucD_1M_32k" time elapsed: 00:00:00
+----------------------------------------------------------
+
+71/169 Testing: t_ucD_128K_8K
+71/169 Test: t_ucD_128K_8K
+Command: "/home/lys/cs144_assignments/txrx.sh" "-ucDd" "128K" "-w" "8K"
+Directory: /home/lys/cs144_assignments/build
+"t_ucD_128K_8K" start time: Feb 13 17:27 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:26214... done.
+new connection from 169.254.144.1:38122.
+DEBUG: Outbound stream to 169.254.144.1:38122 finished (8192 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.1:26214 finished (8192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:26214 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:38122 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.144.1:38122 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:26214 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.43 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucD_128K_8K" end time: Feb 13 17:27 CST
+"t_ucD_128K_8K" time elapsed: 00:00:00
+----------------------------------------------------------
+
+72/169 Testing: t_ucD_16_1
+72/169 Test: t_ucD_16_1
+Command: "/home/lys/cs144_assignments/txrx.sh" "-ucDd" "16" "-w" "1"
+Directory: /home/lys/cs144_assignments/build
+"t_ucD_16_1" start time: Feb 13 17:27 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:16323... done.
+new connection from 169.254.144.1:40302.
+DEBUG: Outbound stream to 169.254.144.1:40302 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:16323 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:40302 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.144.1:16323 finished (1 byte still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:40302 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:16323 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.25 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucD_16_1" end time: Feb 13 17:27 CST
+"t_ucD_16_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+73/169 Testing: t_ucD_32K_d
+73/169 Test: t_ucD_32K_d
+Command: "/home/lys/cs144_assignments/txrx.sh" "-ucDd" "32K"
+Directory: /home/lys/cs144_assignments/build
+"t_ucD_32K_d" start time: Feb 13 17:27 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:5681... done.
+new connection from 169.254.144.1:44360.
+DEBUG: Outbound stream to 169.254.144.1:44360 finished (32769 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.1:5681 finished (32769 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:44360 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:5681 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:5681 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:44360 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.25 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucD_32K_d" end time: Feb 13 17:27 CST
+"t_ucD_32K_d" time elapsed: 00:00:00
+----------------------------------------------------------
+
+74/169 Testing: t_usS_1M_32k
+74/169 Test: t_usS_1M_32k
+Command: "/home/lys/cs144_assignments/txrx.sh" "-usSd" "1M" "-w" "32K"
+Directory: /home/lys/cs144_assignments/build
+"t_usS_1M_32k" start time: Feb 13 17:27 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:25253... done.
+new connection from 169.254.144.1:53981.
+DEBUG: Outbound stream to 169.254.144.1:25253 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:53981 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:25253 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:53981 finished (30768 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:25253 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:53981 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.35 sec
+----------------------------------------------------------
+Test Passed.
+"t_usS_1M_32k" end time: Feb 13 17:27 CST
+"t_usS_1M_32k" time elapsed: 00:00:00
+----------------------------------------------------------
+
+75/169 Testing: t_usS_128K_8K
+75/169 Test: t_usS_128K_8K
+Command: "/home/lys/cs144_assignments/txrx.sh" "-usSd" "128K" "-w" "8K"
+Directory: /home/lys/cs144_assignments/build
+"t_usS_128K_8K" start time: Feb 13 17:27 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:25591... done.
+new connection from 169.254.144.1:47310.
+DEBUG: Outbound stream to 169.254.144.1:25591 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:47310 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:25591 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:47310 finished (7192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:25591 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:47310 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.25 sec
+----------------------------------------------------------
+Test Passed.
+"t_usS_128K_8K" end time: Feb 13 17:27 CST
+"t_usS_128K_8K" time elapsed: 00:00:00
+----------------------------------------------------------
+
+76/169 Testing: t_usS_16_1
+76/169 Test: t_usS_16_1
+Command: "/home/lys/cs144_assignments/txrx.sh" "-usSd" "16" "-w" "1"
+Directory: /home/lys/cs144_assignments/build
+"t_usS_16_1" start time: Feb 13 17:27 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:23242... done.
+new connection from 169.254.144.1:59708.
+DEBUG: Outbound stream to 169.254.144.1:59708 finished (1 byte still in flight).
+DEBUG: Outbound stream to 169.254.144.1:23242 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:59708 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:23242 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:23242 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:59708 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_usS_16_1" end time: Feb 13 17:27 CST
+"t_usS_16_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+77/169 Testing: t_usS_32K_d
+77/169 Test: t_usS_32K_d
+Command: "/home/lys/cs144_assignments/txrx.sh" "-usSd" "32K"
+Directory: /home/lys/cs144_assignments/build
+"t_usS_32K_d" start time: Feb 13 17:27 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:13537... done.
+new connection from 169.254.144.1:33603.
+DEBUG: Outbound stream to 169.254.144.1:33603 finished (32769 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.1:13537 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:13537 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:33603 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:13537 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.144.1:33603 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_usS_32K_d" end time: Feb 13 17:27 CST
+"t_usS_32K_d" time elapsed: 00:00:00
+----------------------------------------------------------
+
+78/169 Testing: t_usR_1M_32k
+78/169 Test: t_usR_1M_32k
+Command: "/home/lys/cs144_assignments/txrx.sh" "-usRd" "1M" "-w" "32K"
+Directory: /home/lys/cs144_assignments/build
+"t_usR_1M_32k" start time: Feb 13 17:27 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:30323... done.
+new connection from 169.254.144.1:41709.
+DEBUG: Outbound stream to 169.254.144.1:41709 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:30323 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:41709 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:30323 finished (31768 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:41709 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:30323 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.33 sec
+----------------------------------------------------------
+Test Passed.
+"t_usR_1M_32k" end time: Feb 13 17:27 CST
+"t_usR_1M_32k" time elapsed: 00:00:00
+----------------------------------------------------------
+
+79/169 Testing: t_usR_128K_8K
+79/169 Test: t_usR_128K_8K
+Command: "/home/lys/cs144_assignments/txrx.sh" "-usRd" "128K" "-w" "8K"
+Directory: /home/lys/cs144_assignments/build
+"t_usR_128K_8K" start time: Feb 13 17:27 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:31288... done.
+new connection from 169.254.144.1:38175.
+DEBUG: Outbound stream to 169.254.144.1:38175 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:31288 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:38175 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:31288 finished (6192 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:38175 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:31288 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_usR_128K_8K" end time: Feb 13 17:27 CST
+"t_usR_128K_8K" time elapsed: 00:00:00
+----------------------------------------------------------
+
+80/169 Testing: t_usR_16_1
+80/169 Test: t_usR_16_1
+Command: "/home/lys/cs144_assignments/txrx.sh" "-usRd" "16" "-w" "1"
+Directory: /home/lys/cs144_assignments/build
+"t_usR_16_1" start time: Feb 13 17:27 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:3476... done.
+new connection from 169.254.144.1:52353.
+DEBUG: Outbound stream to 169.254.144.1:52353 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:3476 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:52353 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:3476 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:52353 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:3476 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_usR_16_1" end time: Feb 13 17:27 CST
+"t_usR_16_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+81/169 Testing: t_usR_32K_d
+81/169 Test: t_usR_32K_d
+Command: "/home/lys/cs144_assignments/txrx.sh" "-usRd" "32K"
+Directory: /home/lys/cs144_assignments/build
+"t_usR_32K_d" start time: Feb 13 17:27 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:22226... done.
+new connection from 169.254.144.1:48221.
+DEBUG: Outbound stream to 169.254.144.1:48221 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:22226 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:48221 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:22226 finished (32769 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:48221 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:22226 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_usR_32K_d" end time: Feb 13 17:27 CST
+"t_usR_32K_d" time elapsed: 00:00:00
+----------------------------------------------------------
+
+82/169 Testing: t_usD_1M_32k
+82/169 Test: t_usD_1M_32k
+Command: "/home/lys/cs144_assignments/txrx.sh" "-usDd" "1M" "-w" "32K"
+Directory: /home/lys/cs144_assignments/build
+"t_usD_1M_32k" start time: Feb 13 17:27 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:32362... done.
+new connection from 169.254.144.1:44839.
+DEBUG: Outbound stream to 169.254.144.1:44839 finished (31768 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.1:32362 finished (32768 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:32362 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:44839 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.144.1:44839 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:32362 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.66 sec
+----------------------------------------------------------
+Test Passed.
+"t_usD_1M_32k" end time: Feb 13 17:27 CST
+"t_usD_1M_32k" time elapsed: 00:00:00
+----------------------------------------------------------
+
+83/169 Testing: t_usD_128K_8K
+83/169 Test: t_usD_128K_8K
+Command: "/home/lys/cs144_assignments/txrx.sh" "-usDd" "128K" "-w" "8K"
+Directory: /home/lys/cs144_assignments/build
+"t_usD_128K_8K" start time: Feb 13 17:27 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:6366... done.
+new connection from 169.254.144.1:47683.
+DEBUG: Outbound stream to 169.254.144.1:47683 finished (7192 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.1:6366 finished (8192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:6366 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:47683 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:47683 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:6366 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.46 sec
+----------------------------------------------------------
+Test Passed.
+"t_usD_128K_8K" end time: Feb 13 17:27 CST
+"t_usD_128K_8K" time elapsed: 00:00:00
+----------------------------------------------------------
+
+84/169 Testing: t_usD_16_1
+84/169 Test: t_usD_16_1
+Command: "/home/lys/cs144_assignments/txrx.sh" "-usDd" "16" "-w" "1"
+Directory: /home/lys/cs144_assignments/build
+"t_usD_16_1" start time: Feb 13 17:27 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:20686... done.
+new connection from 169.254.144.1:35747.
+DEBUG: Outbound stream to 169.254.144.1:35747 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:20686 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:35747 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.144.1:20686 finished (1 byte still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:35747 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:20686 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.25 sec
+----------------------------------------------------------
+Test Passed.
+"t_usD_16_1" end time: Feb 13 17:27 CST
+"t_usD_16_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+85/169 Testing: t_usD_32K_d
+85/169 Test: t_usD_32K_d
+Command: "/home/lys/cs144_assignments/txrx.sh" "-usDd" "32K"
+Directory: /home/lys/cs144_assignments/build
+"t_usD_32K_d" start time: Feb 13 17:27 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:5350... done.
+new connection from 169.254.144.1:51141.
+DEBUG: Outbound stream to 169.254.144.1:51141 finished (32769 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.1:5350 finished (32769 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:51141 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:51141 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.144.1:5350 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:5350 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.25 sec
+----------------------------------------------------------
+Test Passed.
+"t_usD_32K_d" end time: Feb 13 17:27 CST
+"t_usD_32K_d" time elapsed: 00:00:00
+----------------------------------------------------------
+
+86/169 Testing: t_ucS_128K_8K_l
+86/169 Test: t_ucS_128K_8K_l
+Command: "/home/lys/cs144_assignments/txrx.sh" "-ucSd" "128K" "-w" "8K" "-l" "0.1"
+Directory: /home/lys/cs144_assignments/build
+"t_ucS_128K_8K_l" start time: Feb 13 17:27 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:7085... done.
+new connection from 169.254.144.1:56774.
+DEBUG: Outbound stream to 169.254.144.1:56774 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:7085 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:56774 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.144.1:7085 finished (7192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:56774 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:7085 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.25 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucS_128K_8K_l" end time: Feb 13 17:27 CST
+"t_ucS_128K_8K_l" time elapsed: 00:00:00
+----------------------------------------------------------
+
+87/169 Testing: t_ucS_128K_8K_L
+87/169 Test: t_ucS_128K_8K_L
+Command: "/home/lys/cs144_assignments/txrx.sh" "-ucSd" "128K" "-w" "8K" "-L" "0.1"
+Directory: /home/lys/cs144_assignments/build
+"t_ucS_128K_8K_L" start time: Feb 13 17:27 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:7315... done.
+new connection from 169.254.144.1:57730.
+DEBUG: Outbound stream to 169.254.144.1:57730 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:7315 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:57730 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:7315 finished (8191 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:57730 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:7315 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.47 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucS_128K_8K_L" end time: Feb 13 17:27 CST
+"t_ucS_128K_8K_L" time elapsed: 00:00:00
+----------------------------------------------------------
+
+88/169 Testing: t_ucS_128K_8K_lL
+88/169 Test: t_ucS_128K_8K_lL
+Command: "/home/lys/cs144_assignments/txrx.sh" "-ucSd" "128K" "-w" "8K" "-l" "0.1" "-L" "0.1"
+Directory: /home/lys/cs144_assignments/build
+"t_ucS_128K_8K_lL" start time: Feb 13 17:27 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:19952... done.
+new connection from 169.254.144.1:54883.
+DEBUG: Outbound stream to 169.254.144.1:54883 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:19952 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:54883 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:19952 finished (5192 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:54883 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:19952 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.71 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucS_128K_8K_lL" end time: Feb 13 17:27 CST
+"t_ucS_128K_8K_lL" time elapsed: 00:00:00
+----------------------------------------------------------
+
+89/169 Testing: t_ucR_128K_8K_l
+89/169 Test: t_ucR_128K_8K_l
+Command: "/home/lys/cs144_assignments/txrx.sh" "-ucRd" "128K" "-w" "8K" "-l" "0.1"
+Directory: /home/lys/cs144_assignments/build
+"t_ucR_128K_8K_l" start time: Feb 13 17:27 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:18160... done.
+new connection from 169.254.144.1:37112.
+DEBUG: Outbound stream to 169.254.144.1:18160 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:37112 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:18160 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.144.1:37112 finished (7192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:18160 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:37112 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.51 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucR_128K_8K_l" end time: Feb 13 17:27 CST
+"t_ucR_128K_8K_l" time elapsed: 00:00:00
+----------------------------------------------------------
+
+90/169 Testing: t_ucR_128K_8K_L
+90/169 Test: t_ucR_128K_8K_L
+Command: "/home/lys/cs144_assignments/txrx.sh" "-ucRd" "128K" "-w" "8K" "-L" "0.1"
+Directory: /home/lys/cs144_assignments/build
+"t_ucR_128K_8K_L" start time: Feb 13 17:27 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:31981... done.
+new connection from 169.254.144.1:54505.
+DEBUG: Outbound stream to 169.254.144.1:31981 finished (1 byte still in flight).
+DEBUG: Outbound stream to 169.254.144.1:31981 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.144.1:54505 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:54505 finished (7192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:31981 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:54505 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.26 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucR_128K_8K_L" end time: Feb 13 17:27 CST
+"t_ucR_128K_8K_L" time elapsed: 00:00:00
+----------------------------------------------------------
+
+91/169 Testing: t_ucR_128K_8K_lL
+91/169 Test: t_ucR_128K_8K_lL
+Command: "/home/lys/cs144_assignments/txrx.sh" "-ucRd" "128K" "-w" "8K" "-l" "0.1" "-L" "0.1"
+Directory: /home/lys/cs144_assignments/build
+"t_ucR_128K_8K_lL" start time: Feb 13 17:27 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:11961... done.
+new connection from 169.254.144.1:55571.
+DEBUG: Outbound stream to 169.254.144.1:11961 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:55571 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:11961 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:55571 finished (7192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:11961 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:55571 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.46 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucR_128K_8K_lL" end time: Feb 13 17:28 CST
+"t_ucR_128K_8K_lL" time elapsed: 00:00:00
+----------------------------------------------------------
+
+92/169 Testing: t_ucD_128K_8K_l
+92/169 Test: t_ucD_128K_8K_l
+Command: "/home/lys/cs144_assignments/txrx.sh" "-ucDd" "128K" "-w" "8K" "-l" "0.1"
+Directory: /home/lys/cs144_assignments/build
+"t_ucD_128K_8K_l" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:21911... done.
+new connection from 169.254.144.1:53479.
+DEBUG: Outbound stream to 169.254.144.1:21911 finished (8192 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.1:53479 finished (8192 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:53479 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:21911 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.144.1:21911 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:53479 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.60 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucD_128K_8K_l" end time: Feb 13 17:28 CST
+"t_ucD_128K_8K_l" time elapsed: 00:00:00
+----------------------------------------------------------
+
+93/169 Testing: t_ucD_128K_8K_L
+93/169 Test: t_ucD_128K_8K_L
+Command: "/home/lys/cs144_assignments/txrx.sh" "-ucDd" "128K" "-w" "8K" "-L" "0.1"
+Directory: /home/lys/cs144_assignments/build
+"t_ucD_128K_8K_L" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:15415... done.
+new connection from 169.254.144.1:50126.
+DEBUG: Outbound stream to 169.254.144.1:50126 finished (7192 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.1:15415 finished (8192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:15415 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:50126 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:50126 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:15415 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.49 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucD_128K_8K_L" end time: Feb 13 17:28 CST
+"t_ucD_128K_8K_L" time elapsed: 00:00:00
+----------------------------------------------------------
+
+94/169 Testing: t_ucD_128K_8K_lL
+94/169 Test: t_ucD_128K_8K_lL
+Command: "/home/lys/cs144_assignments/txrx.sh" "-ucDd" "128K" "-w" "8K" "-l" "0.1" "-L" "0.1"
+Directory: /home/lys/cs144_assignments/build
+"t_ucD_128K_8K_lL" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:15155... done.
+new connection from 169.254.144.1:39878.
+DEBUG: Outbound stream to 169.254.144.1:15155 finished (8192 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.1:39878 finished (8192 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:39878 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:15155 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:15155 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:39878 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   1.09 sec
+----------------------------------------------------------
+Test Passed.
+"t_ucD_128K_8K_lL" end time: Feb 13 17:28 CST
+"t_ucD_128K_8K_lL" time elapsed: 00:00:01
+----------------------------------------------------------
+
+95/169 Testing: t_usS_128K_8K_l
+95/169 Test: t_usS_128K_8K_l
+Command: "/home/lys/cs144_assignments/txrx.sh" "-usSd" "128K" "-w" "8K" "-l" "0.1"
+Directory: /home/lys/cs144_assignments/build
+"t_usS_128K_8K_l" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:6037... done.
+DEBUG: Outbound stream to 169.254.144.1:6037 finished (1 byte still in flight).
+new connection from 169.254.144.1:34509.
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:34509 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:6037 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.144.1:34509 finished (7192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:6037 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:34509 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.26 sec
+----------------------------------------------------------
+Test Passed.
+"t_usS_128K_8K_l" end time: Feb 13 17:28 CST
+"t_usS_128K_8K_l" time elapsed: 00:00:00
+----------------------------------------------------------
+
+96/169 Testing: t_usS_128K_8K_L
+96/169 Test: t_usS_128K_8K_L
+Command: "/home/lys/cs144_assignments/txrx.sh" "-usSd" "128K" "-w" "8K" "-L" "0.1"
+Directory: /home/lys/cs144_assignments/build
+"t_usS_128K_8K_L" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:3211... done.
+DEBUG: Outbound stream to 169.254.144.1:3211 finished (1 byte still in flight).
+new connection from 169.254.144.1:51975.
+DEBUG: Inbound stream from 169.254.144.1:51975 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:3211 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:51975 finished (8192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:3211 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:51975 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.44 sec
+----------------------------------------------------------
+Test Passed.
+"t_usS_128K_8K_L" end time: Feb 13 17:28 CST
+"t_usS_128K_8K_L" time elapsed: 00:00:00
+----------------------------------------------------------
+
+97/169 Testing: t_usS_128K_8K_lL
+97/169 Test: t_usS_128K_8K_lL
+Command: "/home/lys/cs144_assignments/txrx.sh" "-usSd" "128K" "-w" "8K" "-l" "0.1" "-L" "0.1"
+Directory: /home/lys/cs144_assignments/build
+"t_usS_128K_8K_lL" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:16107... done.
+new connection from 169.254.144.1:48123.
+DEBUG: Outbound stream to 169.254.144.1:16107 finished (1 byte still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:48123 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:16107 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.144.1:48123 finished (8191 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:16107 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:48123 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.40 sec
+----------------------------------------------------------
+Test Passed.
+"t_usS_128K_8K_lL" end time: Feb 13 17:28 CST
+"t_usS_128K_8K_lL" time elapsed: 00:00:00
+----------------------------------------------------------
+
+98/169 Testing: t_usR_128K_8K_l
+98/169 Test: t_usR_128K_8K_l
+Command: "/home/lys/cs144_assignments/txrx.sh" "-usRd" "128K" "-w" "8K" "-l" "0.1"
+Directory: /home/lys/cs144_assignments/build
+"t_usR_128K_8K_l" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:16724... done.
+new connection from 169.254.144.1:49481.
+DEBUG: Outbound stream to 169.254.144.1:49481 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:16724 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:49481 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:16724 finished (6000 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:49481 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:16724 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.50 sec
+----------------------------------------------------------
+Test Passed.
+"t_usR_128K_8K_l" end time: Feb 13 17:28 CST
+"t_usR_128K_8K_l" time elapsed: 00:00:00
+----------------------------------------------------------
+
+99/169 Testing: t_usR_128K_8K_L
+99/169 Test: t_usR_128K_8K_L
+Command: "/home/lys/cs144_assignments/txrx.sh" "-usRd" "128K" "-w" "8K" "-L" "0.1"
+Directory: /home/lys/cs144_assignments/build
+"t_usR_128K_8K_L" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:3638... done.
+new connection from 169.254.144.1:53914.
+DEBUG: Outbound stream to 169.254.144.1:53914 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:3638 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:53914 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:3638 finished (6192 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:53914 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:3638 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.26 sec
+----------------------------------------------------------
+Test Passed.
+"t_usR_128K_8K_L" end time: Feb 13 17:28 CST
+"t_usR_128K_8K_L" time elapsed: 00:00:00
+----------------------------------------------------------
+
+100/169 Testing: t_usR_128K_8K_lL
+100/169 Test: t_usR_128K_8K_lL
+Command: "/home/lys/cs144_assignments/txrx.sh" "-usRd" "128K" "-w" "8K" "-l" "0.1" "-L" "0.1"
+Directory: /home/lys/cs144_assignments/build
+"t_usR_128K_8K_lL" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:11293... done.
+new connection from 169.254.144.1:55005.
+DEBUG: Outbound stream to 169.254.144.1:55005 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:11293 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:55005 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:11293 finished (8192 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:55005 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:11293 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.50 sec
+----------------------------------------------------------
+Test Passed.
+"t_usR_128K_8K_lL" end time: Feb 13 17:28 CST
+"t_usR_128K_8K_lL" time elapsed: 00:00:00
+----------------------------------------------------------
+
+101/169 Testing: t_usD_128K_8K_l
+101/169 Test: t_usD_128K_8K_l
+Command: "/home/lys/cs144_assignments/txrx.sh" "-usDd" "128K" "-w" "8K" "-l" "0.1"
+Directory: /home/lys/cs144_assignments/build
+"t_usD_128K_8K_l" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:22319... done.
+new connection from 169.254.144.1:49193.
+DEBUG: Outbound stream to 169.254.144.1:49193 finished (7192 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.1:22319 finished (8192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:22319 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:49193 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.144.1:49193 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:22319 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.46 sec
+----------------------------------------------------------
+Test Passed.
+"t_usD_128K_8K_l" end time: Feb 13 17:28 CST
+"t_usD_128K_8K_l" time elapsed: 00:00:00
+----------------------------------------------------------
+
+102/169 Testing: t_usD_128K_8K_L
+102/169 Test: t_usD_128K_8K_L
+Command: "/home/lys/cs144_assignments/txrx.sh" "-usDd" "128K" "-w" "8K" "-L" "0.1"
+Directory: /home/lys/cs144_assignments/build
+"t_usD_128K_8K_L" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:29432... done.
+new connection from 169.254.144.1:37723.
+DEBUG: Outbound stream to 169.254.144.1:29432 finished (8192 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.1:37723 finished (8192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:37723 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:29432 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.144.1:29432 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:37723 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.62 sec
+----------------------------------------------------------
+Test Passed.
+"t_usD_128K_8K_L" end time: Feb 13 17:28 CST
+"t_usD_128K_8K_L" time elapsed: 00:00:00
+----------------------------------------------------------
+
+103/169 Testing: t_usD_128K_8K_lL
+103/169 Test: t_usD_128K_8K_lL
+Command: "/home/lys/cs144_assignments/txrx.sh" "-usDd" "128K" "-w" "8K" "-l" "0.1" "-L" "0.1"
+Directory: /home/lys/cs144_assignments/build
+"t_usD_128K_8K_lL" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.1:9426... done.
+new connection from 169.254.144.1:41460.
+DEBUG: Outbound stream to 169.254.144.1:41460 finished (8192 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.1:9426 finished (8192 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:9426 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:41460 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.144.1:41460 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:9426 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.88 sec
+----------------------------------------------------------
+Test Passed.
+"t_usD_128K_8K_lL" end time: Feb 13 17:28 CST
+"t_usD_128K_8K_lL" time elapsed: 00:00:00
+----------------------------------------------------------
+
+104/169 Testing: t_ipv4_client_send
+104/169 Test: t_ipv4_client_send
+Command: "/home/lys/cs144_assignments/txrx.sh" "-icS"
+Directory: /home/lys/cs144_assignments/build
+"t_ipv4_client_send" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.145.9:15607... done.
+new connection from 169.254.145.1:45250.
+DEBUG: Outbound stream to 169.254.145.1:45250 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.145.9:15607 finished cleanly.
+DEBUG: Outbound stream to 169.254.145.9:15607 finished (33 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.145.1:45250 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.145.1:45250 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.145.9:15607 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_ipv4_client_send" end time: Feb 13 17:28 CST
+"t_ipv4_client_send" time elapsed: 00:00:00
+----------------------------------------------------------
+
+105/169 Testing: t_ipv4_server_send
+105/169 Test: t_ipv4_server_send
+Command: "/home/lys/cs144_assignments/txrx.sh" "-isS"
+Directory: /home/lys/cs144_assignments/build
+"t_ipv4_server_send" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.9:11598... done.
+new connection from 169.254.144.1:37232.
+DEBUG: Outbound stream to 169.254.144.1:37232 finished (33 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.9:11598 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.9:11598 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:37232 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:37232 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.9:11598 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_ipv4_server_send" end time: Feb 13 17:28 CST
+"t_ipv4_server_send" time elapsed: 00:00:00
+----------------------------------------------------------
+
+106/169 Testing: t_ipv4_client_recv
+106/169 Test: t_ipv4_client_recv
+Command: "/home/lys/cs144_assignments/txrx.sh" "-icR"
+Directory: /home/lys/cs144_assignments/build
+"t_ipv4_client_recv" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.145.9:14624... done.
+new connection from 169.254.145.1:42510.
+DEBUG: Outbound stream to DEBUG: Outbound stream to 169.254.145.1:42510 finished (33 bytes still in flight).
+169.254.145.9:14624 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.145.9:14624 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.145.1:42510 finished cleanly.
+DEBUG: Outbound stream to 169.254.145.1:42510 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.145.9:14624 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_ipv4_client_recv" end time: Feb 13 17:28 CST
+"t_ipv4_client_recv" time elapsed: 00:00:00
+----------------------------------------------------------
+
+107/169 Testing: t_ipv4_server_recv
+107/169 Test: t_ipv4_server_recv
+Command: "/home/lys/cs144_assignments/txrx.sh" "-isR"
+Directory: /home/lys/cs144_assignments/build
+"t_ipv4_server_recv" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.9:32085... done.
+new connection from 169.254.144.1:41141.
+DEBUG: Outbound stream to 169.254.144.1:41141 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.9:32085 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.9:32085 finished (33 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:41141 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:41141 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.9:32085 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_ipv4_server_recv" end time: Feb 13 17:28 CST
+"t_ipv4_server_recv" time elapsed: 00:00:00
+----------------------------------------------------------
+
+108/169 Testing: t_ipv4_client_dupl
+108/169 Test: t_ipv4_client_dupl
+Command: "/home/lys/cs144_assignments/txrx.sh" "-icD"
+Directory: /home/lys/cs144_assignments/build
+"t_ipv4_client_dupl" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.145.9:13979... done.
+new connection from 169.254.145.1:60899.
+DEBUG: Outbound stream to 169.254.145.1:60899 finished (33 bytes still in flight).
+DEBUG: Outbound stream to 169.254.145.9:13979 finished (33 bytes still in flight).
+DEBUG: Inbound stream from 169.254.145.9:13979 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.145.1:60899 finished cleanly.
+DEBUG: Outbound stream to 169.254.145.1:60899 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.145.9:13979 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_ipv4_client_dupl" end time: Feb 13 17:28 CST
+"t_ipv4_client_dupl" time elapsed: 00:00:00
+----------------------------------------------------------
+
+109/169 Testing: t_ipv4_server_dupl
+109/169 Test: t_ipv4_server_dupl
+Command: "/home/lys/cs144_assignments/txrx.sh" "-isD"
+Directory: /home/lys/cs144_assignments/build
+"t_ipv4_server_dupl" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.9:33245... done.
+new connection from 169.254.144.1:21232.
+DEBUG: Outbound stream to 169.254.144.1:21232 finished (33 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.9:33245 finished (33 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.9:33245 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:21232 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:21232 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.144.9:33245 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_ipv4_server_dupl" end time: Feb 13 17:28 CST
+"t_ipv4_server_dupl" time elapsed: 00:00:00
+----------------------------------------------------------
+
+110/169 Testing: t_icS_1M_32k
+110/169 Test: t_icS_1M_32k
+Command: "/home/lys/cs144_assignments/txrx.sh" "-icSd" "1M" "-w" "32K"
+Directory: /home/lys/cs144_assignments/build
+"t_icS_1M_32k" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.145.9:16368... done.
+new connection from 169.254.145.1:51281.
+DEBUG: Outbound stream to 169.254.145.1:51281 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.145.9:16368 finished cleanly.
+DEBUG: Outbound stream to 169.254.145.1:51281 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.145.9:16368 finished (30768 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.145.1:51281 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.145.9:16368 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.36 sec
+----------------------------------------------------------
+Test Passed.
+"t_icS_1M_32k" end time: Feb 13 17:28 CST
+"t_icS_1M_32k" time elapsed: 00:00:00
+----------------------------------------------------------
+
+111/169 Testing: t_icS_128K_8K
+111/169 Test: t_icS_128K_8K
+Command: "/home/lys/cs144_assignments/txrx.sh" "-icSd" "128K" "-w" "8K"
+Directory: /home/lys/cs144_assignments/build
+"t_icS_128K_8K" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.145.9:6218... done.
+new connection from 169.254.145.1:26087.
+DEBUG: Outbound stream to 169.254.145.1:26087 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.145.9:6218 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.145.1:26087 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.145.9:6218 finished (6192 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.145.1:26087 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.145.9:6218 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.26 sec
+----------------------------------------------------------
+Test Passed.
+"t_icS_128K_8K" end time: Feb 13 17:28 CST
+"t_icS_128K_8K" time elapsed: 00:00:00
+----------------------------------------------------------
+
+112/169 Testing: t_icS_16_1
+112/169 Test: t_icS_16_1
+Command: "/home/lys/cs144_assignments/txrx.sh" "-icSd" "16" "-w" "1"
+Directory: /home/lys/cs144_assignments/build
+"t_icS_16_1" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.145.9:11196... done.
+new connection from 169.254.145.1:19700.
+DEBUG: Outbound stream to 169.254.145.1:19700 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.145.9:11196 finished cleanly.
+DEBUG: Outbound stream to 169.254.145.9:11196 finished (1 byte still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.145.1:19700 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.145.1:19700 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.145.9:11196 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_icS_16_1" end time: Feb 13 17:28 CST
+"t_icS_16_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+113/169 Testing: t_icS_32K_d
+113/169 Test: t_icS_32K_d
+Command: "/home/lys/cs144_assignments/txrx.sh" "-icSd" "32K"
+Directory: /home/lys/cs144_assignments/build
+"t_icS_32K_d" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.145.9:17754... done.
+new connection from 169.254.145.1:40043.
+DEBUG: Outbound stream to 169.254.145.1:40043 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.145.9:17754 finished cleanly.
+DEBUG: Outbound stream to 169.254.145.9:17754 finished (32769 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.145.1:40043 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.145.1:40043 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.145.9:17754 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_icS_32K_d" end time: Feb 13 17:28 CST
+"t_icS_32K_d" time elapsed: 00:00:00
+----------------------------------------------------------
+
+114/169 Testing: t_icR_1M_32k
+114/169 Test: t_icR_1M_32k
+Command: "/home/lys/cs144_assignments/txrx.sh" "-icRd" "1M" "-w" "32K"
+Directory: /home/lys/cs144_assignments/build
+"t_icR_1M_32k" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.145.9:10734... done.
+new connection from 169.254.145.1:65070.
+DEBUG: Outbound stream to 169.254.145.9:10734 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.145.1:65070 finished cleanly.
+DEBUG: Outbound stream to 169.254.145.9:10734 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.145.1:65070 finished (30768 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.145.9:10734 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.145.1:65070 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.35 sec
+----------------------------------------------------------
+Test Passed.
+"t_icR_1M_32k" end time: Feb 13 17:28 CST
+"t_icR_1M_32k" time elapsed: 00:00:00
+----------------------------------------------------------
+
+115/169 Testing: t_icR_128K_8K
+115/169 Test: t_icR_128K_8K
+Command: "/home/lys/cs144_assignments/txrx.sh" "-icRd" "128K" "-w" "8K"
+Directory: /home/lys/cs144_assignments/build
+"t_icR_128K_8K" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.145.9:16382... done.
+new connection from 169.254.145.1:27522.
+DEBUG: Outbound stream to 169.254.145.9:16382 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.145.1:27522 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.145.9:16382 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.145.1:27522 finished (7192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.145.9:16382 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.145.1:27522 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.27 sec
+----------------------------------------------------------
+Test Passed.
+"t_icR_128K_8K" end time: Feb 13 17:28 CST
+"t_icR_128K_8K" time elapsed: 00:00:00
+----------------------------------------------------------
+
+116/169 Testing: t_icR_16_1
+116/169 Test: t_icR_16_1
+Command: "/home/lys/cs144_assignments/txrx.sh" "-icRd" "16" "-w" "1"
+Directory: /home/lys/cs144_assignments/build
+"t_icR_16_1" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.145.9:16716... done.
+new connection from 169.254.145.1:43282.
+DEBUG: Outbound stream to 169.254.145.1:43282 finished (1 byte still in flight).
+DEBUG: Outbound stream to 169.254.145.9:16716 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.145.1:43282 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.145.9:16716 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.145.9:16716 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.145.1:43282 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_icR_16_1" end time: Feb 13 17:28 CST
+"t_icR_16_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+117/169 Testing: t_icR_32K_d
+117/169 Test: t_icR_32K_d
+Command: "/home/lys/cs144_assignments/txrx.sh" "-icRd" "32K"
+Directory: /home/lys/cs144_assignments/build
+"t_icR_32K_d" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.145.9:8261... done.
+new connection from 169.254.145.1:19772.
+DEBUG: Outbound stream to 169.254.145.1:19772 finished (32769 bytes still in flight).
+DEBUG: Outbound stream to 169.254.145.9:8261 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.145.1:19772 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.145.9:8261 finished cleanly.
+DEBUG: Outbound stream to DEBUG: Outbound stream to 169.254.145.9:8261169.254.145.1:19772 has been fully acknowledged.
+ has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_icR_32K_d" end time: Feb 13 17:28 CST
+"t_icR_32K_d" time elapsed: 00:00:00
+----------------------------------------------------------
+
+118/169 Testing: t_icD_1M_32k
+118/169 Test: t_icD_1M_32k
+Command: "/home/lys/cs144_assignments/txrx.sh" "-icDd" "1M" "-w" "32K"
+Directory: /home/lys/cs144_assignments/build
+"t_icD_1M_32k" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.145.9:21183... done.
+new connection from 169.254.145.1:12143.
+DEBUG: Outbound stream to DEBUG: Outbound stream to 169.254.145.9:21183 finished (32768 bytes still in flight).
+169.254.145.1:12143 finished (32768 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.145.9:21183 finished cleanly.
+DEBUG: Inbound stream from 169.254.145.1:12143 finished cleanly.
+DEBUG: Outbound stream to 169.254.145.1:12143 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.145.9:21183 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.72 sec
+----------------------------------------------------------
+Test Passed.
+"t_icD_1M_32k" end time: Feb 13 17:28 CST
+"t_icD_1M_32k" time elapsed: 00:00:00
+----------------------------------------------------------
+
+119/169 Testing: t_icD_128K_8K
+119/169 Test: t_icD_128K_8K
+Command: "/home/lys/cs144_assignments/txrx.sh" "-icDd" "128K" "-w" "8K"
+Directory: /home/lys/cs144_assignments/build
+"t_icD_128K_8K" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.145.9:12758... done.
+new connection from 169.254.145.1:15202.
+DEBUG: Outbound stream to DEBUG: Outbound stream to 169.254.145.9:12758 finished (8192 bytes still in flight).
+169.254.145.1:15202 finished (8192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.145.9:12758 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.145.1:15202 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.145.1:15202 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.145.9:12758 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.44 sec
+----------------------------------------------------------
+Test Passed.
+"t_icD_128K_8K" end time: Feb 13 17:28 CST
+"t_icD_128K_8K" time elapsed: 00:00:00
+----------------------------------------------------------
+
+120/169 Testing: t_icD_16_1
+120/169 Test: t_icD_16_1
+Command: "/home/lys/cs144_assignments/txrx.sh" "-icDd" "16" "-w" "1"
+Directory: /home/lys/cs144_assignments/build
+"t_icD_16_1" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.145.9:17469... done.
+new connection from 169.254.145.1:52312.
+DEBUG: Outbound stream to 169.254.145.1:52312 finished (1 byte still in flight).
+DEBUG: Outbound stream to 169.254.145.9:17469 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.145.9:17469 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.145.1:52312 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.145.1:52312 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.145.9:17469 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.28 sec
+----------------------------------------------------------
+Test Passed.
+"t_icD_16_1" end time: Feb 13 17:28 CST
+"t_icD_16_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+121/169 Testing: t_icD_32K_d
+121/169 Test: t_icD_32K_d
+Command: "/home/lys/cs144_assignments/txrx.sh" "-icDd" "32K"
+Directory: /home/lys/cs144_assignments/build
+"t_icD_32K_d" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.145.9:32531... done.
+new connection from 169.254.145.1:1649.
+DEBUG: Outbound stream to 169.254.145.1:1649 finished (32769 bytes still in flight).
+DEBUG: Outbound stream to 169.254.145.9:32531 finished (32769 bytes still in flight).
+DEBUG: Inbound stream from 169.254.145.9:32531 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.145.1:1649 finished cleanly.
+DEBUG: Outbound stream to 169.254.145.9:32531 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.145.1:1649 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.25 sec
+----------------------------------------------------------
+Test Passed.
+"t_icD_32K_d" end time: Feb 13 17:28 CST
+"t_icD_32K_d" time elapsed: 00:00:00
+----------------------------------------------------------
+
+122/169 Testing: t_isS_1M_32k
+122/169 Test: t_isS_1M_32k
+Command: "/home/lys/cs144_assignments/txrx.sh" "-isSd" "1M" "-w" "32K"
+Directory: /home/lys/cs144_assignments/build
+"t_isS_1M_32k" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.9:18141... done.
+new connection from 169.254.144.1:12405.
+DEBUG: Outbound stream to 169.254.144.9:18141 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:12405 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.9:18141 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:12405 finished (31768 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.9:18141 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:12405 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.33 sec
+----------------------------------------------------------
+Test Passed.
+"t_isS_1M_32k" end time: Feb 13 17:28 CST
+"t_isS_1M_32k" time elapsed: 00:00:00
+----------------------------------------------------------
+
+123/169 Testing: t_isS_128K_8K
+123/169 Test: t_isS_128K_8K
+Command: "/home/lys/cs144_assignments/txrx.sh" "-isSd" "128K" "-w" "8K"
+Directory: /home/lys/cs144_assignments/build
+"t_isS_128K_8K" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.9:25754... done.
+new connection from 169.254.144.1:1857.
+DEBUG: Outbound stream to 169.254.144.9:25754 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:1857 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.9:25754 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.144.1:1857 finished (7192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.9:25754 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:1857 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.27 sec
+----------------------------------------------------------
+Test Passed.
+"t_isS_128K_8K" end time: Feb 13 17:28 CST
+"t_isS_128K_8K" time elapsed: 00:00:00
+----------------------------------------------------------
+
+124/169 Testing: t_isS_16_1
+124/169 Test: t_isS_16_1
+Command: "/home/lys/cs144_assignments/txrx.sh" "-isSd" "16" "-w" "1"
+Directory: /home/lys/cs144_assignments/build
+"t_isS_16_1" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.9:24891... done.
+new connection from 169.254.144.1:3093.
+DEBUG: Outbound stream to 169.254.144.1:3093 finished (1 byte still in flight).
+DEBUG: Outbound stream to 169.254.144.9:24891 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:3093 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.9:24891 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.9:24891 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:3093 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.25 sec
+----------------------------------------------------------
+Test Passed.
+"t_isS_16_1" end time: Feb 13 17:28 CST
+"t_isS_16_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+125/169 Testing: t_isS_32K_d
+125/169 Test: t_isS_32K_d
+Command: "/home/lys/cs144_assignments/txrx.sh" "-isSd" "32K"
+Directory: /home/lys/cs144_assignments/build
+"t_isS_32K_d" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.9:10658... done.
+new connection from 169.254.144.1:7179.
+DEBUG: Outbound stream to 169.254.144.9:10658 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:7179 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:7179 finished (32769 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.9:10658 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.144.9:10658 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:7179 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_isS_32K_d" end time: Feb 13 17:28 CST
+"t_isS_32K_d" time elapsed: 00:00:00
+----------------------------------------------------------
+
+126/169 Testing: t_isR_1M_32k
+126/169 Test: t_isR_1M_32k
+Command: "/home/lys/cs144_assignments/txrx.sh" "-isRd" "1M" "-w" "32K"
+Directory: /home/lys/cs144_assignments/build
+"t_isR_1M_32k" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.9:10126... done.
+new connection from 169.254.144.1:12578.
+DEBUG: Outbound stream to 169.254.144.1:12578 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.9:10126 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:12578 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.9:10126 finished (31767 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:12578 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.9:10126 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.36 sec
+----------------------------------------------------------
+Test Passed.
+"t_isR_1M_32k" end time: Feb 13 17:28 CST
+"t_isR_1M_32k" time elapsed: 00:00:00
+----------------------------------------------------------
+
+127/169 Testing: t_isR_128K_8K
+127/169 Test: t_isR_128K_8K
+Command: "/home/lys/cs144_assignments/txrx.sh" "-isRd" "128K" "-w" "8K"
+Directory: /home/lys/cs144_assignments/build
+"t_isR_128K_8K" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.9:26894... done.
+new connection from 169.254.144.1:3358.
+DEBUG: Outbound stream to 169.254.144.1:3358 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.9:26894 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:3358 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.144.9:26894 finished (6192 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:3358 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.9:26894 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.26 sec
+----------------------------------------------------------
+Test Passed.
+"t_isR_128K_8K" end time: Feb 13 17:28 CST
+"t_isR_128K_8K" time elapsed: 00:00:00
+----------------------------------------------------------
+
+128/169 Testing: t_isR_16_1
+128/169 Test: t_isR_16_1
+Command: "/home/lys/cs144_assignments/txrx.sh" "-isRd" "16" "-w" "1"
+Directory: /home/lys/cs144_assignments/build
+"t_isR_16_1" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.9:25695... done.
+new connection from 169.254.144.1:30830.
+DEBUG: Outbound stream to 169.254.144.1:30830 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.9:25695 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.9:25695 finished (1 byte still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:30830 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:30830 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.9:25695 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_isR_16_1" end time: Feb 13 17:28 CST
+"t_isR_16_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+129/169 Testing: t_isR_32K_d
+129/169 Test: t_isR_32K_d
+Command: "/home/lys/cs144_assignments/txrx.sh" "-isRd" "32K"
+Directory: /home/lys/cs144_assignments/build
+"t_isR_32K_d" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.9:31203... done.
+new connection from 169.254.144.1:52569.
+DEBUG: Outbound stream to 169.254.144.1:52569 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.9:31203 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.9:31203 finished (32769 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:52569 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:52569 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.9:31203 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"t_isR_32K_d" end time: Feb 13 17:28 CST
+"t_isR_32K_d" time elapsed: 00:00:00
+----------------------------------------------------------
+
+130/169 Testing: t_isD_1M_32k
+130/169 Test: t_isD_1M_32k
+Command: "/home/lys/cs144_assignments/txrx.sh" "-isDd" "1M" "-w" "32K"
+Directory: /home/lys/cs144_assignments/build
+"t_isD_1M_32k" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.9:24008... done.
+new connection from 169.254.144.1:40400.
+DEBUG: Outbound stream to DEBUG: Outbound stream to 169.254.144.1:40400 finished (32768 bytes still in flight).
+169.254.144.9:24008 finished (32768 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:40400 finished cleanly.
+DEBUG: Inbound stream from 169.254.144.9:24008 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.9:24008 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.144.1:40400 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.75 sec
+----------------------------------------------------------
+Test Passed.
+"t_isD_1M_32k" end time: Feb 13 17:28 CST
+"t_isD_1M_32k" time elapsed: 00:00:00
+----------------------------------------------------------
+
+131/169 Testing: t_isD_128K_8K
+131/169 Test: t_isD_128K_8K
+Command: "/home/lys/cs144_assignments/txrx.sh" "-isDd" "128K" "-w" "8K"
+Directory: /home/lys/cs144_assignments/build
+"t_isD_128K_8K" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.9:25260... done.
+new connection from 169.254.144.1:18707.
+DEBUG: Outbound stream to 169.254.144.9:25260 finished (8192 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.1:18707 finished (7192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.9:25260 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:18707 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.144.1:18707 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.9:25260 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.43 sec
+----------------------------------------------------------
+Test Passed.
+"t_isD_128K_8K" end time: Feb 13 17:28 CST
+"t_isD_128K_8K" time elapsed: 00:00:00
+----------------------------------------------------------
+
+132/169 Testing: t_isD_16_1
+132/169 Test: t_isD_16_1
+Command: "/home/lys/cs144_assignments/txrx.sh" "-isDd" "16" "-w" "1"
+Directory: /home/lys/cs144_assignments/build
+"t_isD_16_1" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.9:1130... done.
+new connection from 169.254.144.1:57237.
+DEBUG: Outbound stream to 169.254.144.1:57237 finished (1 byte still in flight).
+DEBUG: Outbound stream to 169.254.144.9:1130 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.9:1130 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:57237 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.144.1:57237 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.9:1130 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.27 sec
+----------------------------------------------------------
+Test Passed.
+"t_isD_16_1" end time: Feb 13 17:28 CST
+"t_isD_16_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+133/169 Testing: t_isD_32K_d
+133/169 Test: t_isD_32K_d
+Command: "/home/lys/cs144_assignments/txrx.sh" "-isDd" "32K"
+Directory: /home/lys/cs144_assignments/build
+"t_isD_32K_d" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.9:14332... done.
+new connection from 169.254.144.1:62295.
+DEBUG: Outbound stream to 169.254.144.1:62295 finished (32769 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.9:14332 finished (32769 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:62295 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.9:14332 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:62295 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.144.9:14332 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.25 sec
+----------------------------------------------------------
+Test Passed.
+"t_isD_32K_d" end time: Feb 13 17:28 CST
+"t_isD_32K_d" time elapsed: 00:00:00
+----------------------------------------------------------
+
+134/169 Testing: t_icS_128K_8K_l
+134/169 Test: t_icS_128K_8K_l
+Command: "/home/lys/cs144_assignments/txrx.sh" "-icSd" "128K" "-w" "8K" "-l" "0.1"
+Directory: /home/lys/cs144_assignments/build
+"t_icS_128K_8K_l" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.145.9:31133... done.
+new connection from 169.254.145.1:17721.
+DEBUG: Outbound stream to 169.254.145.1:17721 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.145.9:31133 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.145.1:17721 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.145.9:31133 finished (7192 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.145.1:17721 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.145.9:31133 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.26 sec
+----------------------------------------------------------
+Test Passed.
+"t_icS_128K_8K_l" end time: Feb 13 17:28 CST
+"t_icS_128K_8K_l" time elapsed: 00:00:00
+----------------------------------------------------------
+
+135/169 Testing: t_icS_128K_8K_L
+135/169 Test: t_icS_128K_8K_L
+Command: "/home/lys/cs144_assignments/txrx.sh" "-icSd" "128K" "-w" "8K" "-L" "0.1"
+Directory: /home/lys/cs144_assignments/build
+"t_icS_128K_8K_L" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.145.9:5153... done.
+new connection from 169.254.145.1:53104.
+DEBUG: Outbound stream to 169.254.145.1:53104 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.145.9:5153 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.145.1:53104 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.145.9:5153 finished (2001 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.145.1:53104 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.145.9:5153 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.41 sec
+----------------------------------------------------------
+Test Passed.
+"t_icS_128K_8K_L" end time: Feb 13 17:28 CST
+"t_icS_128K_8K_L" time elapsed: 00:00:00
+----------------------------------------------------------
+
+136/169 Testing: t_icS_128K_8K_lL
+136/169 Test: t_icS_128K_8K_lL
+Command: "/home/lys/cs144_assignments/txrx.sh" "-icSd" "128K" "-w" "8K" "-l" "0.1" "-L" "0.1"
+Directory: /home/lys/cs144_assignments/build
+"t_icS_128K_8K_lL" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.145.9:5963... done.
+new connection from 169.254.145.1:8553.
+DEBUG: Outbound stream to 169.254.145.1:8553 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.145.9:5963 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.145.1:8553 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.145.9:5963 finished (7192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.145.1:8553 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.145.9:5963 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.53 sec
+----------------------------------------------------------
+Test Passed.
+"t_icS_128K_8K_lL" end time: Feb 13 17:28 CST
+"t_icS_128K_8K_lL" time elapsed: 00:00:00
+----------------------------------------------------------
+
+137/169 Testing: t_icR_128K_8K_l
+137/169 Test: t_icR_128K_8K_l
+Command: "/home/lys/cs144_assignments/txrx.sh" "-icRd" "128K" "-w" "8K" "-l" "0.1"
+Directory: /home/lys/cs144_assignments/build
+"t_icR_128K_8K_l" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.145.9:24840... done.
+new connection from 169.254.145.1:13378.
+DEBUG: Outbound stream to 169.254.145.9:24840 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.145.1:13378 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.145.9:24840 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.145.1:13378 finished (8192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.145.9:24840 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.145.1:13378 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.51 sec
+----------------------------------------------------------
+Test Passed.
+"t_icR_128K_8K_l" end time: Feb 13 17:28 CST
+"t_icR_128K_8K_l" time elapsed: 00:00:00
+----------------------------------------------------------
+
+138/169 Testing: t_icR_128K_8K_L
+138/169 Test: t_icR_128K_8K_L
+Command: "/home/lys/cs144_assignments/txrx.sh" "-icRd" "128K" "-w" "8K" "-L" "0.1"
+Directory: /home/lys/cs144_assignments/build
+"t_icR_128K_8K_L" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.145.9:21997... done.
+new connection from 169.254.145.1:57733.
+DEBUG: Outbound stream to 169.254.145.9:21997 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.145.1:57733 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.145.9:21997 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.145.1:57733 finished (6192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.145.9:21997 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.145.1:57733 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.28 sec
+----------------------------------------------------------
+Test Passed.
+"t_icR_128K_8K_L" end time: Feb 13 17:28 CST
+"t_icR_128K_8K_L" time elapsed: 00:00:00
+----------------------------------------------------------
+
+139/169 Testing: t_icR_128K_8K_lL
+139/169 Test: t_icR_128K_8K_lL
+Command: "/home/lys/cs144_assignments/txrx.sh" "-icRd" "128K" "-w" "8K" "-l" "0.1" "-L" "0.1"
+Directory: /home/lys/cs144_assignments/build
+"t_icR_128K_8K_lL" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.145.9:18974... done.
+new connection from 169.254.145.1:38354.
+DEBUG: Outbound stream to 169.254.145.9:18974 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.145.1:38354 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.145.9:18974 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.145.1:38354 finished (7192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.145.9:18974 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.145.1:38354 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.53 sec
+----------------------------------------------------------
+Test Passed.
+"t_icR_128K_8K_lL" end time: Feb 13 17:28 CST
+"t_icR_128K_8K_lL" time elapsed: 00:00:00
+----------------------------------------------------------
+
+140/169 Testing: t_icD_128K_8K_l
+140/169 Test: t_icD_128K_8K_l
+Command: "/home/lys/cs144_assignments/txrx.sh" "-icDd" "128K" "-w" "8K" "-l" "0.1"
+Directory: /home/lys/cs144_assignments/build
+"t_icD_128K_8K_l" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.145.9:17665... done.
+new connection from 169.254.145.1:3826.
+DEBUG: Outbound stream to 169.254.145.9:17665 finished (8192 bytes still in flight).
+DEBUG: Outbound stream to 169.254.145.1:3826 finished (8192 bytes still in flight).
+DEBUG: Outbound stream to 169.254.145.9:17665 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.145.1:3826 finished cleanly.
+DEBUG: Inbound stream from 169.254.145.9:17665 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.145.1:3826 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.58 sec
+----------------------------------------------------------
+Test Passed.
+"t_icD_128K_8K_l" end time: Feb 13 17:28 CST
+"t_icD_128K_8K_l" time elapsed: 00:00:00
+----------------------------------------------------------
+
+141/169 Testing: t_icD_128K_8K_L
+141/169 Test: t_icD_128K_8K_L
+Command: "/home/lys/cs144_assignments/txrx.sh" "-icDd" "128K" "-w" "8K" "-L" "0.1"
+Directory: /home/lys/cs144_assignments/build
+"t_icD_128K_8K_L" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.145.9:10645... done.
+new connection from 169.254.145.1:21304.
+DEBUG: Outbound stream to 169.254.145.1:21304 finished (8192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.145.9:10645 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to DEBUG: Outbound stream to 169.254.145.9:10645169.254.145.1:21304 has been fully acknowledged.
+ finished (8191 bytes still in flight).
+DEBUG: Inbound stream from 169.254.145.1:21304 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.145.9:10645 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.58 sec
+----------------------------------------------------------
+Test Passed.
+"t_icD_128K_8K_L" end time: Feb 13 17:28 CST
+"t_icD_128K_8K_L" time elapsed: 00:00:00
+----------------------------------------------------------
+
+142/169 Testing: t_icD_128K_8K_lL
+142/169 Test: t_icD_128K_8K_lL
+Command: "/home/lys/cs144_assignments/txrx.sh" "-icDd" "128K" "-w" "8K" "-l" "0.1" "-L" "0.1"
+Directory: /home/lys/cs144_assignments/build
+"t_icD_128K_8K_lL" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.145.9:23294... done.
+new connection from 169.254.145.1:11390.
+DEBUG: Outbound stream to 169.254.145.9:23294 finished (8192 bytes still in flight).
+DEBUG: Outbound stream to 169.254.145.1:11390 finished (7192 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.145.1:11390 finished cleanly.
+DEBUG: Outbound stream to 169.254.145.9:23294 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.145.9:23294 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.145.1:11390 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+DEBUG: Waiting for clean shutdown... done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.77 sec
+----------------------------------------------------------
+Test Passed.
+"t_icD_128K_8K_lL" end time: Feb 13 17:28 CST
+"t_icD_128K_8K_lL" time elapsed: 00:00:00
+----------------------------------------------------------
+
+143/169 Testing: t_isS_128K_8K_l
+143/169 Test: t_isS_128K_8K_l
+Command: "/home/lys/cs144_assignments/txrx.sh" "-isSd" "128K" "-w" "8K" "-l" "0.1"
+Directory: /home/lys/cs144_assignments/build
+"t_isS_128K_8K_l" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.9:21747... done.
+new connection from 169.254.144.1:43975.
+DEBUG: Outbound stream to 169.254.144.9:21747 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:43975 finished DEBUG: Waiting for clean shutdown... cleanly.
+DEBUG: Outbound stream to 169.254.144.9:21747 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.144.1:43975 finished (6192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.9:21747 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:43975 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.27 sec
+----------------------------------------------------------
+Test Passed.
+"t_isS_128K_8K_l" end time: Feb 13 17:28 CST
+"t_isS_128K_8K_l" time elapsed: 00:00:00
+----------------------------------------------------------
+
+144/169 Testing: t_isS_128K_8K_L
+144/169 Test: t_isS_128K_8K_L
+Command: "/home/lys/cs144_assignments/txrx.sh" "-isSd" "128K" "-w" "8K" "-L" "0.1"
+Directory: /home/lys/cs144_assignments/build
+"t_isS_128K_8K_L" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.9:24607... done.
+DEBUG: Outbound stream to 169.254.144.9:24607 finished (1 byte still in flight).
+new connection from 169.254.144.1:18856.
+DEBUG: Inbound stream from 169.254.144.1:18856 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.9:24607 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.144.1:18856 finished (5192 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.9:24607 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.1:18856 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.54 sec
+----------------------------------------------------------
+Test Passed.
+"t_isS_128K_8K_L" end time: Feb 13 17:28 CST
+"t_isS_128K_8K_L" time elapsed: 00:00:00
+----------------------------------------------------------
+
+145/169 Testing: t_isS_128K_8K_lL
+145/169 Test: t_isS_128K_8K_lL
+Command: "/home/lys/cs144_assignments/txrx.sh" "-isSd" "128K" "-w" "8K" "-l" "0.1" "-L" "0.1"
+Directory: /home/lys/cs144_assignments/build
+"t_isS_128K_8K_lL" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.9:21561... done.
+new connection from 169.254.144.1:3882.
+DEBUG: Outbound stream to 169.254.144.9:21561 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.1:3882 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.9:21561 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.144.1:3882 finished (7192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.9:21561 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:3882 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.53 sec
+----------------------------------------------------------
+Test Passed.
+"t_isS_128K_8K_lL" end time: Feb 13 17:28 CST
+"t_isS_128K_8K_lL" time elapsed: 00:00:00
+----------------------------------------------------------
+
+146/169 Testing: t_isR_128K_8K_l
+146/169 Test: t_isR_128K_8K_l
+Command: "/home/lys/cs144_assignments/txrx.sh" "-isRd" "128K" "-w" "8K" "-l" "0.1"
+Directory: /home/lys/cs144_assignments/build
+"t_isR_128K_8K_l" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.9:18704... done.
+new connection from 169.254.144.1:27315.
+DEBUG: Outbound stream to 169.254.144.1:27315 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.9:18704 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:27315 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.144.9:18704 finished (3192 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:27315 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.9:18704 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.58 sec
+----------------------------------------------------------
+Test Passed.
+"t_isR_128K_8K_l" end time: Feb 13 17:28 CST
+"t_isR_128K_8K_l" time elapsed: 00:00:00
+----------------------------------------------------------
+
+147/169 Testing: t_isR_128K_8K_L
+147/169 Test: t_isR_128K_8K_L
+Command: "/home/lys/cs144_assignments/txrx.sh" "-isRd" "128K" "-w" "8K" "-L" "0.1"
+Directory: /home/lys/cs144_assignments/build
+"t_isR_128K_8K_L" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.9:8630... done.
+new connection from 169.254.144.1:57790.
+DEBUG: Outbound stream to 169.254.144.1:57790 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.9:8630 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:57790 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.144.9:8630 finished (6192 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:57790 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.9:8630 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.25 sec
+----------------------------------------------------------
+Test Passed.
+"t_isR_128K_8K_L" end time: Feb 13 17:28 CST
+"t_isR_128K_8K_L" time elapsed: 00:00:00
+----------------------------------------------------------
+
+148/169 Testing: t_isR_128K_8K_lL
+148/169 Test: t_isR_128K_8K_lL
+Command: "/home/lys/cs144_assignments/txrx.sh" "-isRd" "128K" "-w" "8K" "-l" "0.1" "-L" "0.1"
+Directory: /home/lys/cs144_assignments/build
+"t_isR_128K_8K_lL" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.9:15876... done.
+new connection from 169.254.144.1:3764.
+DEBUG: Outbound stream to 169.254.144.1:3764 finished (1 byte still in flight).
+DEBUG: Inbound stream from 169.254.144.9:15876 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:3764 has been fully acknowledged.
+DEBUG: Outbound stream to 169.254.144.9:15876 finished (8192 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:3764 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Outbound stream to 169.254.144.9:15876 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.65 sec
+----------------------------------------------------------
+Test Passed.
+"t_isR_128K_8K_lL" end time: Feb 13 17:28 CST
+"t_isR_128K_8K_lL" time elapsed: 00:00:00
+----------------------------------------------------------
+
+149/169 Testing: t_isD_128K_8K_l
+149/169 Test: t_isD_128K_8K_l
+Command: "/home/lys/cs144_assignments/txrx.sh" "-isDd" "128K" "-w" "8K" "-l" "0.1"
+Directory: /home/lys/cs144_assignments/build
+"t_isD_128K_8K_l" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.9:2586... done.
+new connection from 169.254.144.1:44189.
+DEBUG: Outbound stream to 169.254.144.1:44189 finished (8192 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.9:2586 finished (8192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.9:2586 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:44189 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.144.1:44189 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.9:2586 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.55 sec
+----------------------------------------------------------
+Test Passed.
+"t_isD_128K_8K_l" end time: Feb 13 17:28 CST
+"t_isD_128K_8K_l" time elapsed: 00:00:00
+----------------------------------------------------------
+
+150/169 Testing: t_isD_128K_8K_L
+150/169 Test: t_isD_128K_8K_L
+Command: "/home/lys/cs144_assignments/txrx.sh" "-isDd" "128K" "-w" "8K" "-L" "0.1"
+Directory: /home/lys/cs144_assignments/build
+"t_isD_128K_8K_L" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.9:1173... done.
+new connection from 169.254.144.1:28847.
+DEBUG: Outbound stream to 169.254.144.9:1173 finished (8192 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.1:28847 finished (8192 bytes still in flight).
+DEBUG: Inbound stream from 169.254.144.1:28847 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.9:1173 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.144.9:1173 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:28847 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.63 sec
+----------------------------------------------------------
+Test Passed.
+"t_isD_128K_8K_L" end time: Feb 13 17:28 CST
+"t_isD_128K_8K_L" time elapsed: 00:00:00
+----------------------------------------------------------
+
+151/169 Testing: t_isD_128K_8K_lL
+151/169 Test: t_isD_128K_8K_lL
+Command: "/home/lys/cs144_assignments/txrx.sh" "-isDd" "128K" "-w" "8K" "-l" "0.1" "-L" "0.1"
+Directory: /home/lys/cs144_assignments/build
+"t_isD_128K_8K_lL" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... DEBUG: Connecting to 169.254.144.9:21006... done.
+new connection from 169.254.144.1:38968.
+DEBUG: Outbound stream to 169.254.144.1:38968 finished (8192 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.9:21006 finished (8192 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.9:21006 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:38968 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.144.1:38968 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.9:21006 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.67 sec
+----------------------------------------------------------
+Test Passed.
+"t_isD_128K_8K_lL" end time: Feb 13 17:28 CST
+"t_isD_128K_8K_lL" time elapsed: 00:00:00
+----------------------------------------------------------
+
+152/169 Testing: t_icnS_128K_8K_l
+152/169 Test: t_icnS_128K_8K_l
+Command: "/home/lys/cs144_assignments/txrx.sh" "-icSnd" "128K" "-w" "8K" "-l" "0.1"
+Directory: /home/lys/cs144_assignments/build
+"t_icnS_128K_8K_l" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Connecting to 169.254.144.1:24401... done.
+DEBUG: Outbound stream to 169.254.144.1:24401 finished (64000 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.1:24401 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.144.1:24401 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.25 sec
+----------------------------------------------------------
+Test Passed.
+"t_icnS_128K_8K_l" end time: Feb 13 17:28 CST
+"t_icnS_128K_8K_l" time elapsed: 00:00:00
+----------------------------------------------------------
+
+153/169 Testing: t_icnS_128K_8K_L
+153/169 Test: t_icnS_128K_8K_L
+Command: "/home/lys/cs144_assignments/txrx.sh" "-icSnd" "128K" "-w" "8K" "-L" "0.1"
+Directory: /home/lys/cs144_assignments/build
+"t_icnS_128K_8K_L" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Connecting to 169.254.144.1:29460... done.
+DEBUG: Inbound stream from 169.254.144.1:29460 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:29460 finished (64000 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.1:29460 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.30 sec
+----------------------------------------------------------
+Test Passed.
+"t_icnS_128K_8K_L" end time: Feb 13 17:28 CST
+"t_icnS_128K_8K_L" time elapsed: 00:00:00
+----------------------------------------------------------
+
+154/169 Testing: t_icnS_128K_8K_lL
+154/169 Test: t_icnS_128K_8K_lL
+Command: "/home/lys/cs144_assignments/txrx.sh" "-icSnd" "128K" "-w" "8K" "-l" "0.1" "-L" "0.1"
+Directory: /home/lys/cs144_assignments/build
+"t_icnS_128K_8K_lL" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Connecting to 169.254.144.1:20710... done.
+DEBUG: Inbound stream from 169.254.144.1:20710 finished cleanly.
+DEBUG: Waiting for clean shutdown... DEBUG: Outbound stream to 169.254.144.1:20710 finished (45000 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.1:20710 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.35 sec
+----------------------------------------------------------
+Test Passed.
+"t_icnS_128K_8K_lL" end time: Feb 13 17:28 CST
+"t_icnS_128K_8K_lL" time elapsed: 00:00:00
+----------------------------------------------------------
+
+155/169 Testing: t_icnR_128K_8K_l
+155/169 Test: t_icnR_128K_8K_l
+Command: "/home/lys/cs144_assignments/txrx.sh" "-icRnd" "128K" "-w" "8K" "-l" "0.1"
+Directory: /home/lys/cs144_assignments/build
+"t_icnR_128K_8K_l" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Connecting to 169.254.144.1:20356... done.
+DEBUG: Outbound stream to 169.254.144.1:20356 finished (1 byte still in flight).
+DEBUG: Outbound stream to 169.254.144.1:20356 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.144.1:20356 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.86 sec
+----------------------------------------------------------
+Test Passed.
+"t_icnR_128K_8K_l" end time: Feb 13 17:28 CST
+"t_icnR_128K_8K_l" time elapsed: 00:00:00
+----------------------------------------------------------
+
+156/169 Testing: t_icnR_128K_8K_L
+156/169 Test: t_icnR_128K_8K_L
+Command: "/home/lys/cs144_assignments/txrx.sh" "-icRnd" "128K" "-w" "8K" "-L" "0.1"
+Directory: /home/lys/cs144_assignments/build
+"t_icnR_128K_8K_L" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Connecting to 169.254.144.1:23979... done.
+DEBUG: Outbound stream to 169.254.144.1:23979 finished (1 byte still in flight).
+DEBUG: Outbound stream to 169.254.144.1:23979 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.144.1:23979 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.27 sec
+----------------------------------------------------------
+Test Passed.
+"t_icnR_128K_8K_L" end time: Feb 13 17:28 CST
+"t_icnR_128K_8K_L" time elapsed: 00:00:00
+----------------------------------------------------------
+
+157/169 Testing: t_icnR_128K_8K_lL
+157/169 Test: t_icnR_128K_8K_lL
+Command: "/home/lys/cs144_assignments/txrx.sh" "-icRnd" "128K" "-w" "8K" "-l" "0.1" "-L" "0.1"
+Directory: /home/lys/cs144_assignments/build
+"t_icnR_128K_8K_lL" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Connecting to 169.254.144.1:17984... done.
+DEBUG: Outbound stream to 169.254.144.1:17984 finished (1 byte still in flight).
+DEBUG: Outbound stream to 169.254.144.1:17984 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.144.1:17984 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.31 sec
+----------------------------------------------------------
+Test Passed.
+"t_icnR_128K_8K_lL" end time: Feb 13 17:28 CST
+"t_icnR_128K_8K_lL" time elapsed: 00:00:00
+----------------------------------------------------------
+
+158/169 Testing: t_icnD_128K_8K_l
+158/169 Test: t_icnD_128K_8K_l
+Command: "/home/lys/cs144_assignments/txrx.sh" "-icDnd" "128K" "-w" "8K" "-l" "0.1"
+Directory: /home/lys/cs144_assignments/build
+"t_icnD_128K_8K_l" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Connecting to 169.254.144.1:5099... done.
+DEBUG: Outbound stream to 169.254.144.1:5099 finished (63000 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.1:5099 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.144.1:5099 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.87 sec
+----------------------------------------------------------
+Test Passed.
+"t_icnD_128K_8K_l" end time: Feb 13 17:28 CST
+"t_icnD_128K_8K_l" time elapsed: 00:00:00
+----------------------------------------------------------
+
+159/169 Testing: t_icnD_128K_8K_L
+159/169 Test: t_icnD_128K_8K_L
+Command: "/home/lys/cs144_assignments/txrx.sh" "-icDnd" "128K" "-w" "8K" "-L" "0.1"
+Directory: /home/lys/cs144_assignments/build
+"t_icnD_128K_8K_L" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Connecting to 169.254.144.1:10414... done.
+DEBUG: Outbound stream to 169.254.144.1:10414 finished (33000 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:10414 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:10414 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.48 sec
+----------------------------------------------------------
+Test Passed.
+"t_icnD_128K_8K_L" end time: Feb 13 17:28 CST
+"t_icnD_128K_8K_L" time elapsed: 00:00:00
+----------------------------------------------------------
+
+160/169 Testing: t_icnD_128K_8K_lL
+160/169 Test: t_icnD_128K_8K_lL
+Command: "/home/lys/cs144_assignments/txrx.sh" "-icDnd" "128K" "-w" "8K" "-l" "0.1" "-L" "0.1"
+Directory: /home/lys/cs144_assignments/build
+"t_icnD_128K_8K_lL" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Connecting to 169.254.144.1:12752... done.
+DEBUG: Outbound stream to 169.254.144.1:12752 finished (42000 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.1:12752 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.144.1:12752 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.89 sec
+----------------------------------------------------------
+Test Passed.
+"t_icnD_128K_8K_lL" end time: Feb 13 17:28 CST
+"t_icnD_128K_8K_lL" time elapsed: 00:00:00
+----------------------------------------------------------
+
+161/169 Testing: t_isnS_128K_8K_l
+161/169 Test: t_isnS_128K_8K_l
+Command: "/home/lys/cs144_assignments/txrx.sh" "-isSnd" "128K" "-w" "8K" "-l" "0.1"
+Directory: /home/lys/cs144_assignments/build
+"t_isnS_128K_8K_l" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... new connection from 169.254.144.1:35598.
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:35598 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:35598 finished (64000 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.1:35598 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   1.13 sec
+----------------------------------------------------------
+Test Passed.
+"t_isnS_128K_8K_l" end time: Feb 13 17:28 CST
+"t_isnS_128K_8K_l" time elapsed: 00:00:01
+----------------------------------------------------------
+
+162/169 Testing: t_isnS_128K_8K_L
+162/169 Test: t_isnS_128K_8K_L
+Command: "/home/lys/cs144_assignments/txrx.sh" "-isSnd" "128K" "-w" "8K" "-L" "0.1"
+Directory: /home/lys/cs144_assignments/build
+"t_isnS_128K_8K_L" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... new connection from 169.254.144.1:39906.
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:39906 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:39906 finished (64000 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.1:39906 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.28 sec
+----------------------------------------------------------
+Test Passed.
+"t_isnS_128K_8K_L" end time: Feb 13 17:28 CST
+"t_isnS_128K_8K_L" time elapsed: 00:00:00
+----------------------------------------------------------
+
+163/169 Testing: t_isnS_128K_8K_lL
+163/169 Test: t_isnS_128K_8K_lL
+Command: "/home/lys/cs144_assignments/txrx.sh" "-isSnd" "128K" "-w" "8K" "-l" "0.1" "-L" "0.1"
+Directory: /home/lys/cs144_assignments/build
+"t_isnS_128K_8K_lL" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... new connection from 169.254.144.1:49868.
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:49868 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:49868 finished (52000 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.1:49868 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.27 sec
+----------------------------------------------------------
+Test Passed.
+"t_isnS_128K_8K_lL" end time: Feb 13 17:28 CST
+"t_isnS_128K_8K_lL" time elapsed: 00:00:00
+----------------------------------------------------------
+
+164/169 Testing: t_isnR_128K_8K_l
+164/169 Test: t_isnR_128K_8K_l
+Command: "/home/lys/cs144_assignments/txrx.sh" "-isRnd" "128K" "-w" "8K" "-l" "0.1"
+Directory: /home/lys/cs144_assignments/build
+"t_isnR_128K_8K_l" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... new connection from 169.254.144.1:46606.
+DEBUG: Outbound stream to 169.254.144.1:46606 finished (1 byte still in flight).
+DEBUG: Outbound stream to 169.254.144.1:46606 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:46606 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   1.66 sec
+----------------------------------------------------------
+Test Passed.
+"t_isnR_128K_8K_l" end time: Feb 13 17:28 CST
+"t_isnR_128K_8K_l" time elapsed: 00:00:01
+----------------------------------------------------------
+
+165/169 Testing: t_isnR_128K_8K_L
+165/169 Test: t_isnR_128K_8K_L
+Command: "/home/lys/cs144_assignments/txrx.sh" "-isRnd" "128K" "-w" "8K" "-L" "0.1"
+Directory: /home/lys/cs144_assignments/build
+"t_isnR_128K_8K_L" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... new connection from 169.254.144.1:60994.
+DEBUG: Outbound stream to 169.254.144.1:60994 finished (1 byte still in flight).
+DEBUG: Outbound stream to 169.254.144.1:60994 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.144.1:60994 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.27 sec
+----------------------------------------------------------
+Test Passed.
+"t_isnR_128K_8K_L" end time: Feb 13 17:28 CST
+"t_isnR_128K_8K_L" time elapsed: 00:00:00
+----------------------------------------------------------
+
+166/169 Testing: t_isnR_128K_8K_lL
+166/169 Test: t_isnR_128K_8K_lL
+Command: "/home/lys/cs144_assignments/txrx.sh" "-isRnd" "128K" "-w" "8K" "-l" "0.1" "-L" "0.1"
+Directory: /home/lys/cs144_assignments/build
+"t_isnR_128K_8K_lL" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... new connection from 169.254.144.1:38120.
+DEBUG: Outbound stream to 169.254.144.1:38120 finished (1 byte still in flight).
+DEBUG: Outbound stream to 169.254.144.1:38120 has been fully acknowledged.
+DEBUG: Inbound stream from 169.254.144.1:38120 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: Waiting for clean shutdown... DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   1.48 sec
+----------------------------------------------------------
+Test Passed.
+"t_isnR_128K_8K_lL" end time: Feb 13 17:28 CST
+"t_isnR_128K_8K_lL" time elapsed: 00:00:01
+----------------------------------------------------------
+
+167/169 Testing: t_isnD_128K_8K_l
+167/169 Test: t_isnD_128K_8K_l
+Command: "/home/lys/cs144_assignments/txrx.sh" "-isDnd" "128K" "-w" "8K" "-l" "0.1"
+Directory: /home/lys/cs144_assignments/build
+"t_isnD_128K_8K_l" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... new connection from 169.254.144.1:42592.
+DEBUG: Outbound stream to 169.254.144.1:42592 finished (64000 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.1:42592 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:42592 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.73 sec
+----------------------------------------------------------
+Test Passed.
+"t_isnD_128K_8K_l" end time: Feb 13 17:28 CST
+"t_isnD_128K_8K_l" time elapsed: 00:00:00
+----------------------------------------------------------
+
+168/169 Testing: t_isnD_128K_8K_L
+168/169 Test: t_isnD_128K_8K_L
+Command: "/home/lys/cs144_assignments/txrx.sh" "-isDnd" "128K" "-w" "8K" "-L" "0.1"
+Directory: /home/lys/cs144_assignments/build
+"t_isnD_128K_8K_L" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... new connection from 169.254.144.1:58544.
+DEBUG: Outbound stream to 169.254.144.1:58544 finished (30000 bytes still in flight).
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:58544 finished cleanly.
+DEBUG: Outbound stream to 169.254.144.1:58544 has been fully acknowledged.
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   0.47 sec
+----------------------------------------------------------
+Test Passed.
+"t_isnD_128K_8K_L" end time: Feb 13 17:28 CST
+"t_isnD_128K_8K_L" time elapsed: 00:00:00
+----------------------------------------------------------
+
+169/169 Testing: t_isnD_128K_8K_lL
+169/169 Test: t_isnD_128K_8K_lL
+Command: "/home/lys/cs144_assignments/txrx.sh" "-isDnd" "128K" "-w" "8K" "-l" "0.1" "-L" "0.1"
+Directory: /home/lys/cs144_assignments/build
+"t_isnD_128K_8K_lL" start time: Feb 13 17:28 CST
+Output:
+----------------------------------------------------------
+DEBUG: Listening for incoming connection... new connection from 169.254.144.1:49932.
+DEBUG: Outbound stream to 169.254.144.1:49932 finished (33000 bytes still in flight).
+DEBUG: Outbound stream to 169.254.144.1:49932 has been fully acknowledged.
+DEBUG: Waiting for clean shutdown... DEBUG: Inbound stream from 169.254.144.1:49932 finished cleanly.
+DEBUG: Waiting for lingering segments (e.g. retransmissions of FIN) from peer...
+DEBUG: TCP connection finished cleanly.
+done.
+<end of output>
+Test time =   2.61 sec
+----------------------------------------------------------
+Test Passed.
+"t_isnD_128K_8K_lL" end time: Feb 13 17:28 CST
+"t_isnD_128K_8K_lL" time elapsed: 00:00:02
+----------------------------------------------------------
+
+End testing: Feb 13 17:28 CST

@@ -100,6 +100,7 @@ void TCPSender::fill_window()
 //! \param window_size The remote receiver's advertised window size
 void TCPSender::ack_received(const WrappingInt32 ackno, const uint16_t window_size)
 {
+
     // sender收到receiver返回的ack和window_size
 
     uint64_t abs_ackno = unwrap(ackno, _isn, _next_seqno);
@@ -235,4 +236,3 @@ void TCPSender::_send_segment(TCPSegment &seg)
         _time_elapsed = 0;
     }
 }
-
